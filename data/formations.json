@@ -1,1 +1,29 @@
-
+[
+  {
+    "id": 1,
+    "titre": "Gestion de l'agressivité",
+    "categorie": "Communication",
+    "duree": "7 heures",
+    "public": "Professionnels",
+    "description": "Comprendre les mécanismes de l'agressivité et développer des stratégies de communication adaptées.",
+    "image": "https://picsum.photos/400/250?1"
+  },
+  {
+    "id": 2,
+    "titre": "Hygiène professionnelle",
+    "categorie": "Hygiène",
+    "duree": "3 heures",
+    "public": "Professionnels",
+    "description": "Actualisation des bonnes pratiques d'hygiène et prévention des risques.",
+    "image": "https://picsum.photos/400/250?2"
+  },
+  {
+    "id": 3,
+    "titre": "Déontologie",
+    "categorie": "Législation",
+    "duree": "3 heures",
+    "public": "Professionnels",
+    "description": "Réflexion sur les obligations professionnelles, le secret professionnel et les limites d'intervention.",
+    "image": "https://picsum.photos/400/250?3"
+  }
+]

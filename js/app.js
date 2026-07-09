@@ -1,36 +1,12 @@
 const container = document.getElementById("formationsContainer");
 
-fetch("data/formations.json")
-    .then(response => response.json())
-    .then(formations => {
+afficherFormations(formations);
 
-        afficherFormations(formations);
-
-        document
-            .getElementById("searchInput")
-            .addEventListener("keyup", function () {
-
-                const texte = this.value.toLowerCase();
-
-                const resultat = formations.filter(f =>
-
-                    f.titre.toLowerCase().includes(texte) ||
-                    f.categorie.toLowerCase().includes(texte) ||
-                    f.description.toLowerCase().includes(texte)
-
-                );
-
-                afficherFormations(resultat);
-
-            });
-
-    });
-
-function afficherFormations(formations) {
+function afficherFormations(liste) {
 
     container.innerHTML = "";
 
-    formations.forEach(f => {
+    liste.forEach(f => {
 
         const carte = document.createElement("div");
 
@@ -38,22 +14,20 @@ function afficherFormations(formations) {
 
         carte.innerHTML = `
 
-            <img src="${f.image}" alt="${f.titre}">
-
             <div class="card-content">
 
-                <h3>${f.titre}</h3>
+                <h2>${f.titre}</h2>
 
-                <p><strong>Domaine :</strong> ${f.categorie}</p>
+                <p class="categorie">${f.categorie}</p>
 
                 <p><strong>Durée :</strong> ${f.duree}</p>
 
+                <p><strong>Public :</strong> ${f.public}</p>
+
                 <p>${f.description}</p>
 
-                <button onclick="ouvrirFormation(${f.id})">
-
+                <button>
                     Voir la formation
-
                 </button>
 
             </div>
@@ -63,11 +37,5 @@ function afficherFormations(formations) {
         container.appendChild(carte);
 
     });
-
-}
-
-function ouvrirFormation(id){
-
-    alert("Version 1.0\n\nLa fiche détaillée de la formation " + id + " sera disponible dans la prochaine version.");
 
 }

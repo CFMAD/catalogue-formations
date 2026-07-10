@@ -26,8 +26,8 @@ function afficherFormations(liste) {
 
                 <p>${f.description}</p>
 
-<button onclick="ouvrirFormation(${f.id})">
-    Voir la formation
+<button onclick="voirFormation(${f.id})">
+Voir la formation
 </button>
 
             </div>
@@ -41,6 +41,12 @@ function afficherFormations(liste) {
 }
 
 function ouvrirFormation(id) {
+
+    window.location.href = "formation.html?id=" + id;
+
+}
+
+function voirFormation(id){
 
     window.location.href = "formation.html?id=" + id;
 

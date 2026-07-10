@@ -397,3 +397,12 @@ color:white;
     margin-bottom:18px;
 
 }
+
+
+.filtres button.actif{
+
+    background:#1E5D74;
+
+    color:white;
+
+}

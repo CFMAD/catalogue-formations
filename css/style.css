@@ -126,17 +126,20 @@ section h2{
 .card{
 
     background:white;
-    border-radius:12px;
+    border-radius:16px;
     overflow:hidden;
-    box-shadow:0 5px 15px rgba(0,0,0,.08);
-    transition:.25s;
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+    transition:.3s;
+    display:flex;
+    flex-direction:column;
+    height:100%;
 
 }
 
 .card:hover{
 
-    transform:translateY(-6px);
-    box-shadow:0 10px 25px rgba(0,0,0,.15);
+    transform:translateY(-8px);
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
 
 }
 
@@ -150,7 +153,10 @@ section h2{
 
 .card-content{
 
-    padding:20px;
+    padding:24px;
+    display:flex;
+    flex-direction:column;
+    flex:1;
 
 }
 
@@ -171,13 +177,23 @@ section h2{
 
 .card button{
 
+    margin-top:auto;
+
     background:#005A8D;
     color:white;
+
     border:none;
-    padding:12px 18px;
-    border-radius:8px;
-    cursor:pointer;
+
+    padding:14px;
+
+    border-radius:10px;
+
+    font-size:15px;
+
     font-weight:bold;
+
+    cursor:pointer;
+
     transition:.25s;
 
 }

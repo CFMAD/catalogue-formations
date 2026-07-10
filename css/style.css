@@ -155,7 +155,7 @@ section h2{
 
 .card-content{
 
-    padding:24px;
+    padding:28px;
     display:flex;
     flex-direction:column;
     flex:1;
@@ -173,7 +173,7 @@ section h2{
 
     font-size:15px;
     color:#555;
-    margin-bottom:20px;
+    margin-bottom:14px;
 
 }
 
@@ -181,18 +181,21 @@ section h2{
 
     margin-top:auto;
 
-    background:#1E5D74;
-    color:white;
+    width:100%;
+
+    padding:15px;
 
     border:none;
 
-    padding:14px;
-
     border-radius:10px;
+
+    background:#005A8D;
+
+    color:white;
 
     font-size:15px;
 
-    font-weight:bold;
+    font-weight:600;
 
     cursor:pointer;
 
@@ -202,7 +205,9 @@ section h2{
 
 .card button:hover{
 
-    background:#2D7F9F;
+    background:#0A6FAE;
+
+    transform:scale(1.02);
 
 }
 
@@ -401,5 +406,26 @@ color:white;
 #searchInput:focus{
 
     border-color:#0A6FAE;
+
+}
+
+
+.badge{
+
+    display:inline-block;
+
+    background:#EAF4FB;
+
+    color:#005A8D;
+
+    padding:6px 14px;
+
+    border-radius:30px;
+
+    font-size:13px;
+
+    font-weight:600;
+
+    margin-bottom:18px;
 
 }

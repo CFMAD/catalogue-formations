@@ -60,48 +60,30 @@ function voirFormation(id){
 }
 
 
-const boutons = document.querySelectorAll(".filtres button");
-
-boutons.forEach(btn=>{
-
-btn.addEventListener("click",()=>{
-
-const categorie = btn.dataset.cat;
-
-if(categorie==="Toutes"){
-
-afficherFormations(formations);
-
-return;
-
-}
-
-const resultat = formations.filter(f=>f.categorie===categorie);
-
-afficherFormations(resultat);
-
-});
-
-});
 
 
 const boutons = document.querySelectorAll(".filtres button");
 
 boutons.forEach(bouton => {
 
-    bouton.addEventListener("click", function(){
+    bouton.addEventListener("click", function () {
+
+        // Enlève la classe "actif" sur tous les boutons
+        boutons.forEach(b => b.classList.remove("actif"));
+
+        // Ajoute la classe "actif" sur le bouton cliqué
+        this.classList.add("actif");
 
         const categorie = this.dataset.filtre;
 
-        if(categorie==="Toutes"){
+        if (categorie === "Toutes") {
 
             afficherFormations(formations);
-
             return;
 
         }
 
-        const resultat = formations.filter(f=>f.categorie===categorie);
+        const resultat = formations.filter(f => f.categorie === categorie);
 
         afficherFormations(resultat);
 

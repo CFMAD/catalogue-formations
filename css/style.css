@@ -330,3 +330,48 @@ background:#005A8D;
 color:white;
 
 }
+
+
+/* ===========================
+   HERO V2
+=========================== */
+
+.hero{
+
+max-width:1200px;
+
+margin:40px auto;
+
+padding:60px;
+
+background:linear-gradient(135deg,#005A8D,#0E7DB8);
+
+color:white;
+
+border-radius:20px;
+
+text-align:center;
+
+box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+}
+
+.hero h2{
+
+font-size:42px;
+
+margin-bottom:20px;
+
+}
+
+.hero p{
+
+font-size:20px;
+
+max-width:850px;
+
+margin:auto;
+
+line-height:1.8;
+
+}

@@ -21,7 +21,7 @@ function afficherFormations(liste) {
 
             <div class="card-content">
 
-                <h2>${f.titre}</h2>
+                <h3>${f.titre}</h3>
 
                 <p class="categorie">${f.categorie}</p>
 

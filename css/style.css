@@ -213,38 +213,6 @@ section h2{
 
 
 /* ===========================
-   HERO
-=========================== */
-
-.hero{
-
-    background:white;
-    padding:60px;
-    border-radius:15px;
-    margin-bottom:50px;
-    text-align:center;
-    box-shadow:0 5px 20px rgba(0,0,0,.08);
-
-}
-
-.hero h2{
-
-    font-size:42px;
-    margin-bottom:20px;
-
-}
-
-.hero p{
-
-    max-width:900px;
-    margin:auto;
-    font-size:20px;
-    color:#666;
-
-}
-
-
-/* ===========================
    FOOTER
 =========================== */
 

@@ -283,3 +283,50 @@ font-size:24px;
 }
 
 }
+
+
+/* ===========================
+   FILTRES
+=========================== */
+
+.filtres{
+
+display:flex;
+
+flex-wrap:wrap;
+
+gap:12px;
+
+justify-content:center;
+
+margin:30px auto;
+
+}
+
+.filtres button{
+
+background:white;
+
+border:2px solid #005A8D;
+
+color:#005A8D;
+
+padding:10px 18px;
+
+border-radius:25px;
+
+cursor:pointer;
+
+font-weight:bold;
+
+transition:.25s;
+
+}
+
+.filtres button:hover{
+
+background:#005A8D;
+
+color:white;
+
+}

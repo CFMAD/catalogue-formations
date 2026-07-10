@@ -83,3 +83,28 @@ afficherFormations(resultat);
 });
 
 });
+
+
+const boutons = document.querySelectorAll(".filtres button");
+
+boutons.forEach(bouton => {
+
+    bouton.addEventListener("click", function(){
+
+        const categorie = this.dataset.filtre;
+
+        if(categorie==="Toutes"){
+
+            afficherFormations(formations);
+
+            return;
+
+        }
+
+        const resultat = formations.filter(f=>f.categorie===categorie);
+
+        afficherFormations(resultat);
+
+    });
+
+});

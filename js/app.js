@@ -23,7 +23,7 @@ function afficherFormations(liste) {
 
                 <h3>${f.titre}</h3>
 
-                <p class="categorie">${f.categorie}</p>
+                <div class="badge">${f.categorie}</div>
 
                 <p><strong>Durée :</strong> ${f.duree}</p>
 

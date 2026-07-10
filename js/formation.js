@@ -5,6 +5,8 @@ const id = Number(params.get("id"));
 const formation = formations.find(f => f.id === id);
 
 document.getElementById("titre").textContent = formation.titre;
+  document.getElementById("titre2").textContent = formation.titre;
+  document.getElementById("categorie2").textContent = formation.categorie;
 
 document.getElementById("categorie").textContent = formation.categorie;
 

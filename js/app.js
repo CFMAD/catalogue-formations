@@ -26,9 +26,9 @@ function afficherFormations(liste) {
 
                 <p>${f.description}</p>
 
-                <button>
-                    Voir la formation
-                </button>
+<button onclick="ouvrirFormation(${f.id})">
+    Voir la formation
+</button>
 
             </div>
 
@@ -37,5 +37,11 @@ function afficherFormations(liste) {
         container.appendChild(carte);
 
     });
+
+}
+
+function ouvrirFormation(id) {
+
+    window.location.href = "formation.html?id=" + id;
 
 }

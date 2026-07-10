@@ -19,6 +19,8 @@ function afficherFormations(liste) {
 
         carte.innerHTML = `
 
+<img src="${f.image}" alt="${f.titre}">
+
             <div class="card-content">
 
                 <h3>${f.titre}</h3>

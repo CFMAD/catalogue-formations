@@ -56,3 +56,28 @@ function voirFormation(id){
     window.location.href = "formation.html?id=" + id;
 
 }
+
+
+const boutons = document.querySelectorAll(".filtres button");
+
+boutons.forEach(btn=>{
+
+btn.addEventListener("click",()=>{
+
+const categorie = btn.dataset.cat;
+
+if(categorie==="Toutes"){
+
+afficherFormations(formations);
+
+return;
+
+}
+
+const resultat = formations.filter(f=>f.categorie===categorie);
+
+afficherFormations(resultat);
+
+});
+
+});

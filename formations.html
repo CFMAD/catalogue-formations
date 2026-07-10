@@ -3,11 +3,11 @@
 
 <head>
 
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
 
-    <title>Catalogue des formations</title>
+<title>Formation</title>
 
-    <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style.css">
 
 </head>
 
@@ -15,29 +15,38 @@
 
 <header>
 
-    <h1>Catalogue des formations</h1>
+<h1 id="titre"></h1>
 
-    <p>CFMAD - Centre de Formation</p>
+<p id="categorie"></p>
 
 </header>
 
-<section class="recherche">
-
-    <input
-        type="text"
-        id="searchInput"
-        placeholder="Rechercher une formation..."
-    >
-
-</section>
-
 <main>
 
-    <div id="formationsContainer" class="cards"></div>
+<h2>Description</h2>
+
+<p id="description"></p>
+
+<h2>Objectifs</h2>
+
+<div id="objectifs"></div>
+
+<p><strong>Durée :</strong> <span id="duree"></span></p>
+
+<p><strong>Public :</strong> <span id="public"></span></p>
+
+<br>
+
+<a href="index.html">
+
+← Retour au catalogue
+
+</a>
 
 </main>
+
 <script src="data/formations.js"></script>
-<script src="js/app.js"></script>
+<script src="js/formation.js"></script>
 
 </body>
 

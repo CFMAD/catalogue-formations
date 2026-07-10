@@ -12,7 +12,7 @@
 body{
 
     font-family:Segoe UI,Arial,sans-serif;
-    background:#f4f6f9;
+    background:#F8FAFC;
     color:#333;
     line-height:1.5;
 
@@ -25,25 +25,26 @@ body{
 
 header{
 
-    background:#1E5D74;
+    background:linear-gradient(135deg,#1E5D74,#4A90A4);
     color:white;
-    padding:25px;
+    padding:45px 20px;
     text-align:center;
-    box-shadow:0 2px 8px rgba(0,0,0,.15);
 
 }
 
 header h1{
 
-    font-size:34px;
-    margin-bottom:10px;
+    font-size:42px;
+    font-weight:700;
+    margin-bottom:12px;
+    letter-spacing:.5px;
 
 }
 
 header p{
 
-    font-size:18px;
-    opacity:.9;
+    font-size:20px;
+    color:rgba(255,255,255,.95);
 
 }
 

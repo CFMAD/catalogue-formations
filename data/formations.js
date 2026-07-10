@@ -8,6 +8,11 @@ const formations = [
     duree: "3 heures",
     public: "Professionnels de terrain",
     description: "Identifier les facteurs de risque et mettre en œuvre des actions de prévention.",
+    objectifs: `
+• Comprendre les facteurs de risque
+• Identifier les situations dangereuses
+• Adapter ses pratiques
+`,
     lien: "formation.html?id=1"
 },
 
@@ -19,7 +24,12 @@ const formations = [
     image: "images/formation.jpg",
     duree: "6 heures",
     public: "Professionnels de terrain",
-    description: "Cadre légal, secret partagé et responsabilité professionnelle."
+    description: "Cadre légal, secret partagé et responsabilité professionnelle.",
+        objectifs: `
+• Comprendre les facteurs de risque
+• Identifier les situations dangereuses
+• Adapter ses pratiques
+`
 },
 
 {
@@ -30,7 +40,12 @@ const formations = [
     image: "images/document.jpg",
     duree: "1 journée",
     public: "Professionnels de terrain",
-    description: "Développer une communication efficace au sein des équipes."
+    description: "Développer une communication efficace au sein des équipes.",
+    objectifs: `
+• Comprendre les facteurs de risque
+• Identifier les situations dangereuses
+• Adapter ses pratiques
+`,
 },
 
 {
@@ -41,7 +56,12 @@ const formations = [
     image: "images/ecrire.jpg",
     duree: "1 journée",
     public: "Aides familiales",
-    description: "Bonnes pratiques de l'accompagnement au domicile."
+    description: "Bonnes pratiques de l'accompagnement au domicile.",
+    objectifs: `
+• Comprendre les facteurs de risque
+• Identifier les situations dangereuses
+• Adapter ses pratiques
+`,
 },
 
 {
@@ -52,7 +72,12 @@ const formations = [
     image: "images/groupe.jpg",
     duree: "3 journées",
     public: "Professionnels de terrain",
-    description: "Cycle complet consacré à l'accompagnement des personnes atteintes de troubles cognitifs."
+    description: "Cycle complet consacré à l'accompagnement des personnes atteintes de troubles cognitifs.",
+    objectifs: `
+• Comprendre les facteurs de risque
+• Identifier les situations dangereuses
+• Adapter ses pratiques
+`,
 }
 
 ];

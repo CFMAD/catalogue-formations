@@ -1,3 +1,8 @@
+console.log("app.js chargé");
+console.log(formations);
+
+
+
 const container = document.getElementById("formationsContainer");
 
 afficherFormations(formations);

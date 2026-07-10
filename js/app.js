@@ -19,27 +19,27 @@ function afficherFormations(liste) {
 
         carte.innerHTML = `
 
-<img src="${f.image}" alt="${f.titre}">
+    <img src="${f.image}" alt="${f.titre}">
 
-            <div class="card-content">
+    <div class="card-content">
 
-                <h3>${f.titre}</h3>
+        <div class="badge">${f.categorie}</div>
 
-                <div class="badge">${f.categorie}</div>
+        <h2>${f.titre}</h2>
 
-                <p><strong>Durée :</strong> ${f.duree}</p>
+        <p><strong>Durée :</strong> ${f.duree}</p>
 
-                <p><strong>Public :</strong> ${f.public}</p>
+        <p><strong>Public :</strong> ${f.public}</p>
 
-                <p>${f.description}</p>
+        <p>${f.description}</p>
 
-<button onclick="voirFormation(${f.id})">
-Voir la formation
-</button>
+        <button onclick="voirFormation(${f.id})">
+            Voir la formation
+        </button>
 
-            </div>
+    </div>
 
-        `;
+`;
 
         container.appendChild(carte);
 

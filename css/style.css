@@ -406,3 +406,92 @@ color:white;
     color:white;
 
 }
+
+
+/* ====================================
+   FICHE FORMATION
+==================================== */
+
+.banniere-formation{
+
+    max-width:1200px;
+    margin:40px auto;
+
+}
+
+.banniere-formation img{
+
+    width:100%;
+    height:340px;
+
+    object-fit:cover;
+
+    border-radius:18px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+}
+
+.fiche{
+
+    max-width:1100px;
+
+    margin:auto;
+
+}
+
+.fiche section{
+
+    background:white;
+
+    padding:35px;
+
+    margin-bottom:30px;
+
+    border-radius:18px;
+
+    box-shadow:0 6px 20px rgba(0,0,0,.08);
+
+}
+
+.fiche h2{
+
+    color:#1E5D74;
+
+    margin-bottom:20px;
+
+}
+
+.fiche p{
+
+    line-height:1.8;
+
+    font-size:17px;
+
+}
+
+.fiche button{
+
+    background:#1E5D74;
+
+    color:white;
+
+    padding:16px 30px;
+
+    border:none;
+
+    border-radius:10px;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.25s;
+
+}
+
+.fiche button:hover{
+
+    background:#0A6FAE;
+
+}

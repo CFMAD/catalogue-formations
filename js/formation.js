@@ -7,6 +7,8 @@ const formation = formations.find(f => f.id === id);
 document.getElementById("titre").textContent = formation.titre;
 
 document.getElementById("categorie").textContent = formation.categorie;
+  document.getElementById("imageFormation").src = formation.image;
+  document.getElementById("imageFormation").alt = formation.titre;
 
 document.getElementById("presentation").textContent = formation.presentation;
 

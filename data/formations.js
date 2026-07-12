@@ -13,9 +13,23 @@ const formations = [
 • Identifier les situations dangereuses
 • Adapter ses pratiques
 `,
+
+    contenu: `
+• Les facteurs de risque
+• Les bonnes pratiques
+• Les aides techniques
+• Exercices pratiques
+
+`,
+
+    methode: "Apports théoriques, échanges, mises en situation.",
+    participants: "8 à 15 personnes",
+    lieu: "Dans votre institution ou au CFMAD",
+    prix: "Sur devis",
     lien: "formation.html?id=1"
 },
 
+    
 {
     id: 2,
     lien: "formation.html?id=2",

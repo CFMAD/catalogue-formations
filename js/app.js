@@ -45,12 +45,6 @@ carte.innerHTML = `
 
 }
 
-function ouvrirFormation(id) {
-
-    window.location.href = "formation.html?id=" + id;
-
-}
-
 function voirFormation(id){
 
     window.location.href = "formation.html?id=" + id;

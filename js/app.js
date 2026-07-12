@@ -17,7 +17,7 @@ function afficherFormations(liste) {
 
         carte.className = "card";
 
-        carte.innerHTML = `
+carte.innerHTML = `
 
     <img src="${f.image}" alt="${f.titre}">
 
@@ -27,11 +27,7 @@ function afficherFormations(liste) {
 
         <h2>${f.titre}</h2>
 
-        <p><strong>Durée :</strong> ${f.duree}</p>
-
-        <p><strong>Public :</strong> ${f.public}</p>
-
-        <p>${f.description}</p>
+        <p>${f.presentation}</p>
 
         <button onclick="voirFormation(${f.id})">
             Voir la formation

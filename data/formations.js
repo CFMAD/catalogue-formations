@@ -1,7 +1,6 @@
 const formations = [
 
 {
-{
     id: 1,
     categorie: "Prévention, santé et sensibilisation",
     titre: "Prévention des chutes",

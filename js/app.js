@@ -23,7 +23,9 @@ carte.innerHTML = `
 
     <div class="card-content">
 
-        <div class="badge">${f.categorie}</div>
+        <div class="badge ${classeCategorie(f.categorie)}">
+        ${f.categorie}
+        </div>
 
         <h2>${f.titre}</h2>
 
@@ -104,3 +106,30 @@ boutons.forEach(bouton => {
     });
 
 });
+
+
+function classeCategorie(categorie){
+
+    switch(categorie){
+
+        case "Prévention, santé et sensibilisation":
+            return "cat-prevention";
+
+        case "Cadre professionnel":
+            return "cat-cadre";
+
+        case "Travailler en équipe":
+            return "cat-equipe";
+
+        case "Le métier à domicile et ses spécificités pratiques":
+            return "cat-domicile";
+
+        case "Les packs professionnels":
+            return "cat-pack";
+
+        default:
+            return "";
+
+    }
+
+}

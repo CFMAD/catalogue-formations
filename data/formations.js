@@ -2,18 +2,27 @@ const formations = [
 
 {
     id: 1,
+
     categorie: "Prévention, santé et sensibilisation",
+
     titre: "Prévention des chutes",
+
     image: "images/batiment.jpg",
+
     presentation: "Identifier les facteurs de risque de chute et développer une démarche de prévention adaptée aux bénéficiaires.",
+
     objectifs: `
 • Identifier les facteurs de risque
 • Adapter son accompagnement
 • Mettre en place des actions de prévention
 `,
-    formateur: "Formateur CFMAD spécialisé",
+
+    formateur: "Formateur CFMAD",
+
     public: "Professionnels de terrain",
+
     participants: "8 à 15 personnes",
+
     tarif: "Sur devis"
 },
 

@@ -17,3 +17,18 @@ document.getElementById("objectifs").innerHTML = formation.objectifs.replace(/\n
 document.getElementById("duree").textContent = formation.duree;
 
 document.getElementById("public").textContent = formation.public;
+
+document.getElementById("contenu").innerHTML =
+formation.contenu ? formation.contenu.replace(/\n/g,"<br>") : "";
+
+document.getElementById("methode").textContent =
+formation.methode || "";
+
+document.getElementById("participants").textContent =
+formation.participants || "";
+
+document.getElementById("lieu").textContent =
+formation.lieu || "";
+
+document.getElementById("prix").textContent =
+formation.prix || "";

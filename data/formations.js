@@ -20,18 +20,19 @@ const formations = [
     
 {
     id: 2,
-    lien: "formation.html?id=2",
     categorie: "Cadre professionnel",
     titre: "Secret professionnel",
     image: "images/formation.jpg",
-    duree: "6 heures",
-    public: "Professionnels de terrain",
-    description: "Cadre légal, secret partagé et responsabilité professionnelle.",
-        objectifs: `
+    presentation: "Cadre légal, secret partagé et responsabilité professionnelle.",
+    objectifs: `
 • Comprendre les facteurs de risque
 • Identifier les situations dangereuses
 • Adapter ses pratiques
-`
+`,
+formateur: "Formateur CFMAD",
+public: "Professionnels de terrain",
+participants: "8 à 15 personnes",
+tarif: "Sur devis"   
 },
 
 {

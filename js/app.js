@@ -31,7 +31,7 @@ carte.innerHTML = `
 
         <p>${f.presentation}</p>
 
-        <button onclick="voirFormation(${f.id})">
+        <button onclick="Consulter la fiche(${f.id})">
             Voir la formation
         </button>
 

@@ -63,15 +63,15 @@ recherche.addEventListener("keyup", function () {
 
     const texte = this.value.toLowerCase();
 
-    const resultat = formations.filter(f =>
+    const resultat = formations.filter(f => {
 
-        f.titre.toLowerCase().includes(texte) ||
+        return (
+            (f.titre || "").toLowerCase().includes(texte) ||
+            (f.categorie || "").toLowerCase().includes(texte) ||
+            (f.presentation || "").toLowerCase().includes(texte)
+        );
 
-        f.categorie.toLowerCase().includes(texte) ||
-
-        f.presentation.toLowerCase().includes(texte)
-
-    );
+    });
 
     afficherFormations(resultat);
 

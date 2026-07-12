@@ -57,11 +57,9 @@ function voirFormation(id){
 
 const recherche = document.getElementById("searchInput");
 
-recherche.addEventListener("keyup", rechercherFormations);
+recherche.addEventListener("keyup", function () {
 
-function rechercherFormations(){
-
-    const texte = recherche.value.toLowerCase();
+    const texte = this.value.toLowerCase();
 
     const resultat = formations.filter(f =>
 
@@ -69,15 +67,13 @@ function rechercherFormations(){
 
         f.categorie.toLowerCase().includes(texte) ||
 
-        f.description.toLowerCase().includes(texte) ||
-
-        f.public.toLowerCase().includes(texte)
+        f.presentation.toLowerCase().includes(texte)
 
     );
 
     afficherFormations(resultat);
 
-}
+});
 
 
 const boutons = document.querySelectorAll(".filtres button");

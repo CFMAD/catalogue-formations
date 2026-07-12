@@ -497,3 +497,43 @@ color:white;
     background:#0A6FAE;
 
 }
+
+
+/* ===========================
+   COULEURS DES CATEGORIES
+=========================== */
+
+.cat-prevention{
+
+    background:#D9F2E6;
+    color:#237A57;
+
+}
+
+.cat-cadre{
+
+    background:#E5ECF9;
+    color:#355C9B;
+
+}
+
+.cat-equipe{
+
+    background:#FFF3D9;
+    color:#B67800;
+
+}
+
+.cat-domicile{
+
+    background:#F7E4F2;
+    color:#8B3F7A;
+
+}
+
+.cat-pack{
+
+    background:#FFE3E3;
+    color:#B33A3A;
+
+}

@@ -537,3 +537,35 @@ color:white;
     color:#B33A3A;
 
 }
+
+/* Couleurs des boutons de catégories */
+
+.filtres button.cat-prevention{
+    background:#D9F2E6;
+    color:#237A57;
+    border-color:#237A57;
+}
+
+.filtres button.cat-cadre{
+    background:#E5ECF9;
+    color:#355C9B;
+    border-color:#355C9B;
+}
+
+.filtres button.cat-equipe{
+    background:#FFF3D9;
+    color:#B67800;
+    border-color:#B67800;
+}
+
+.filtres button.cat-domicile{
+    background:#F7E4F2;
+    color:#8B3F7A;
+    border-color:#8B3F7A;
+}
+
+.filtres button.cat-pack{
+    background:#FFE3E3;
+    color:#B33A3A;
+    border-color:#B33A3A;
+}

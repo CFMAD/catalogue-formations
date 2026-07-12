@@ -4,6 +4,20 @@ const id = Number(params.get("id"));
 
 const formation = formations.find(f => f.id === id);
 
+if (!formation) {
+
+    document.body.innerHTML = "<h1>Formation introuvable</h1>";
+
+    throw new Error("Formation introuvable");
+
+}
+
+const params = new URLSearchParams(window.location.search);
+
+const id = Number(params.get("id"));
+
+const formation = formations.find(f => f.id === id);
+
 document.getElementById("titre").textContent = formation.titre;
 
 document.getElementById("categorie").textContent = formation.categorie;

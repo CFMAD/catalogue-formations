@@ -23,17 +23,41 @@ carte.innerHTML = `
 
     <div class="card-content">
 
-        <div class="badge ${classeCategorie(f.categorie)}">
-        ${f.categorie}
-        </div>
+<div class="badge ${classeCategorie(f.categorie)}">
 
-        <h2>${f.titre}</h2>
+    ${f.categorie}
 
-        <p>${f.presentation}</p>
+</div>
 
-        <button onclick="Consulter la fiche(${f.id})">
-            Voir la formation
-        </button>
+<h2>${f.titre}</h2>
+
+<p>${f.presentation}</p>
+
+<hr>
+
+<p>👤 <strong>Public :</strong> ${f.public}</p>
+
+<p>👥 <strong>Participants :</strong> ${f.participants}</p>
+
+<p>💶 <strong>Tarif :</strong> ${f.tarif}</p>
+
+<button onclick="voirFormation(${f.id})">
+
+    Consulter la fiche
+
+</button>
+
+       // <div class="badge ${classeCategorie(f.categorie)}">
+      // ${f.categorie}
+      // </div>
+
+     // <h2>${f.titre}</h2>
+
+      // <p>${f.presentation}</p>
+
+     // <button onclick="Consulter la fiche(${f.id})">
+       // Voir la formation
+     // </button>
 
     </div>
 

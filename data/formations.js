@@ -15,7 +15,6 @@ const formations = [
     public: "Professionnels de terrain",
     participants: "8 à 15 personnes",
     tarif: "Sur devis"
-    "Date: Modulables, en fonction de vos disponibilités et de celles du formateur"
 },
 
     
@@ -34,7 +33,6 @@ formateur: "Madame List ou Madame Bordenga",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins"
-    "Date: Modulables, en fonction de vos disponibilités et de celles du formateur"
 },
 
 

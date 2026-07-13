@@ -35,3 +35,5 @@ document.getElementById("participants").textContent =
 
 document.getElementById("tarif").textContent =
     formation.tarif;
+document.getElementById("date").textContent =
+    formation.date;

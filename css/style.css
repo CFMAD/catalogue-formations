@@ -561,3 +561,29 @@ color:white;
     border-color:#B33A3A;
 }
 
+/* ===========================
+   BOUTON RETOUR
+=========================== */
+
+.retour{
+    text-align:center;
+    margin:50px 0;
+}
+
+.btn-retour{
+    display:inline-block;
+    background:#1E5D74;
+    color:white;
+    padding:14px 28px;
+    border-radius:10px;
+    font-weight:600;
+    text-decoration:none;
+    transition:.25s;
+    box-shadow:0 6px 18px rgba(0,0,0,.12);
+}
+
+.btn-retour:hover{
+    background:#0A6FAE;
+    transform:translateY(-2px);
+
+}

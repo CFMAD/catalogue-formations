@@ -40,6 +40,7 @@ carte.innerHTML = `
 <p>👥 <strong>Participants :</strong> ${f.participants}</p>
 
 <p>💶 <strong>Tarif :</strong> ${f.tarif}</p>
+<p>💶 <strong>Date :</strong> ${f.date}</p>
 
 <button onclick="voirFormation(${f.id})">
 

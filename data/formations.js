@@ -15,25 +15,28 @@ const formations = [
     public: "Professionnels de terrain",
     participants: "8 à 15 personnes",
     tarif: "Sur devis"
+    "Date: Modulables, en fonction de vos disponibilités et de celles du formateur"
 },
 
     
 {
-    id: 2,
-    categorie: "Cadre professionnel",
-    titre: "Secret professionnel",
-    image: "images/formation.jpg",
-    presentation: "Cadre légal, secret partagé et responsabilité professionnelle.",
-    objectifs: `
-• Comprendre les facteurs de risque
-• Identifier les situations dangereuses
-• Adapter ses pratiques
+id: 2,
+categorie: "Prévention, santé et sensibilisation ",
+titre: "Gestion du stress",
+image: "images/formation.jpg",
+presentation: "identifier les facteurs de risque liés au stress, d’adapter leur accompagnement aux situations rencontrées et de mettre en œuvre des actions de prévention favorisant le bien-être et la qualité de vie au travail.",
+objectifs: `
+•	Reconnaître leurs propres signaux de stress;
+•	Utiliser des outils simples et rapides pour s’apaiser;
+•	Mettre en place quelques habitudes préventives pour limiter le stress chronique;
 `,
-formateur: "Formateur CFMAD",
-public: "Professionnels de terrain",
-participants: "8 à 15 personnes",
-tarif: "Sur devis"   
+formateur: "Madame List ou Madame Bordenga",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins"
+    "Date: Modulables, en fonction de vos disponibilités et de celles du formateur"
 },
+
 
 {
     id: 3,

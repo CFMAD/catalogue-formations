@@ -192,3 +192,10 @@ function classeCategorie(categorie){
     }
 
 }
+
+
+document.getElementById("nbFormations").textContent = formations.length;
+
+const categories = [...new Set(formations.map(f => f.categorie))];
+
+document.getElementById("nbCategories").textContent = categories.length;

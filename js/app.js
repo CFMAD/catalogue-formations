@@ -47,18 +47,6 @@ carte.innerHTML = `
 
 </button>
 
-       // <div class="badge ${classeCategorie(f.categorie)}">
-      // ${f.categorie}
-      // </div>
-
-     // <h2>${f.titre}</h2>
-
-      // <p>${f.presentation}</p>
-
-     // <button onclick="Consulter la fiche(${f.id})">
-       // Voir la formation
-     // </button>
-
     </div>
 
 `;

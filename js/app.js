@@ -139,3 +139,56 @@ function classeCategorie(categorie){
     }
 
 }
+
+
+function classeCategorie(categorie){
+
+    switch(categorie){
+
+        case "Prévention, santé et sensibilisation":
+            return "cat-prevention";
+
+        case "Cadre professionnel":
+            return "cat-cadre";
+
+        case "Travailler en équipe":
+            return "cat-equipe";
+
+        case "Le métier à domicile et ses spécificités pratiques":
+            return "cat-domicile";
+
+        case "Les packs professionnels":
+            return "cat-pack";
+
+        default:
+            return "";
+
+    }
+
+}
+
+function classeCategorie(categorie){
+
+    switch(categorie){
+
+        case "Prévention, santé et sensibilisation":
+            return "cat-prevention";
+
+        case "Cadre professionnel":
+            return "cat-cadre";
+
+        case "Travailler en équipe":
+            return "cat-equipe";
+
+        case "Le métier à domicile et ses spécificités pratiques":
+            return "cat-domicile";
+
+        case "Les packs professionnels":
+            return "cat-pack";
+
+        default:
+            return "";
+
+    }
+
+}

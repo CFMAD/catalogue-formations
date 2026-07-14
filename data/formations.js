@@ -85,7 +85,7 @@ presentation: "Mieux repérer et comprendre les questionnements existentiels et 
 objectifs: `
 •	Former les personnes à l'usage et à la compréhension de deux groupes d'outils; 
 •	Permettre de s'ouvrir à un regard et un langage différent; 
-•	détecter, repérer, identifier les questions existentielles ou spirituelles des bénéficiaires et leur entourage 
+•	détecter, repérer, identifier les questions existentielles ou spirituelles des bénéficiaires et leur entourage
 `,
 formateur: "Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
@@ -164,7 +164,7 @@ formateur: "Madame Emmanuele",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
-date: " Modulables, en fonction de vos disponibilités et de celles du formateur – Lundi ou mardi. "
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur – Lundi ou mardi. "
 },
 
 {
@@ -172,7 +172,7 @@ id: 10,
 categorie: "Prévention, santé et sensibilisation ",
 titre: " Maladies mentales ",
 image: "images/formation.jpg",
-presentation: " Meilleure compréhension des principaux troubles psychiques afin favoriser une attitude adaptée, sécurisante et bienveillante dans l'accompagnement des bénéficiaires.",
+presentation: "Meilleure compréhension des principaux troubles psychiques afin favoriser une attitude adaptée, sécurisante et bienveillante dans l'accompagnement des bénéficiaires.",
 objectifs: `
 •	Identifier, différencier et comprendre les maladies mentales
 •	Adapter son intervention à la maladie mentale et gérer la crise
@@ -209,8 +209,7 @@ id: 12,
 categorie: "Prévention, santé et sensibilisation ",
 titre: " Troubles cognitifs ",
 image: "images/formation.jpg",
-presentation: " Cette formation offre des repères pour mieux comprendre les réalités des troubles cognitifs et favoriser un accompagnement respectueux, sécurisant et centré sur les besoins de la personne et de son entourage
-.",
+presentation: "Cette formation offre des repères pour mieux comprendre les réalités des troubles cognitifs et favoriser un accompagnement respectueux, sécurisant et centré sur les besoins de la personne et de son entourage.",
 objectifs: `
 •	Comprendre les troubles (causes, les types...)
 •	Adapter l'accompagnement du bénéficiaire et de son environnement
@@ -229,8 +228,7 @@ id: 13,
 categorie: "Prévention, santé et sensibilisation ",
 titre: " Hygiène et prévention dans le métier ",
 image: "images/formation.jpg",
-presentation: " Cette formation sensibilise aux bonnes pratiques professionnelles permettant de préserver la santé, la sécurité et le bien-être tant des bénéficiaires que des intervenants
-.",
+presentation: "Cette formation sensibilise aux bonnes pratiques professionnelles permettant de préserver la santé, la sécurité et le bien-être tant des bénéficiaires que des intervenants.",
 objectifs: `
 •	Identifier les règles d'hygiène indispensables dans la pratique quotidienne;
 •	Comprendre les principaux risques professionnels et les moyens de prévention;
@@ -248,8 +246,7 @@ id: 14,
 categorie: "Prévention, santé et sensibilisation ",
 titre: " Accidents domestiques ",
 image: "images/formation.jpg",
-presentation: " Cette formation permet de renforcer la vigilance au quotidien et de contribuer à un environnement de vie plus sûr pour les bénéficiaires comme pour les intervenants
-.",
+presentation: "Cette formation permet de renforcer la vigilance au quotidien et de contribuer à un environnement de vie plus sûr pour les bénéficiaires comme pour les intervenants.",
 objectifs: `
 •	Identifier les principaux risques d'accidents domestiques au domicile;
 •	Adopter des comportements préventifs pour réduire les risques;
@@ -267,9 +264,7 @@ id: 15,
 categorie: "Prévention, santé et sensibilisation ",
 titre: " Le diabète ",
 image: "images/formation.jpg",
-presentation: " Cette formation permet de mieux comprendre les réalités vécues par les personnes diabétiques afin de leur offrir un accompagnement adapté, attentif et bienveillant
-
-.",
+presentation: "Cette formation permet de mieux comprendre les réalités vécues par les personnes diabétiques afin de leur offrir un accompagnement adapté, attentif et bienveillant.",
 objectifs: `
 •	Comprendre les bases du diabète et ses impacts sur la vie quotidienne ;
 •	Identifier les signes d’alerte et les situations à risque ;
@@ -288,8 +283,7 @@ id: 16,
 categorie: "Cadre professionnel ",
 titre: " Affirmation de soi : comment poser mes limites ?",
 image: "images/formation.jpg",
-presentation: " Cette formation invite à développer une communication équilibrée et respectueuse de soi comme des autres, afin de renforcer sa confiance, préserver ses ressources personnelles et construire des relations professionnelles plus sereines
-.",
+presentation: "Cette formation invite à développer une communication équilibrée et respectueuse de soi comme des autres, afin de renforcer sa confiance, préserver ses ressources personnelles et construire des relations professionnelles plus sereines.",
 objectifs: `
 •	Comprendre la différence entre assertivité, inhibition et agressivité
 •	Acquérir des outils pour apprendre à poser ses limites de manière claire et adaptée
@@ -308,8 +302,7 @@ id: 17,
 categorie: "Cadre professionnel ",
 titre: " La charge mentale - Comment regagner l'équilibre ?",
 image: "images/formation.jpg",
-presentation: " Cette formation invite à prendre du recul sur les sollicitations du quotidien et leurs impacts sur le bien-être, afin de retrouver un fonctionnement plus serein, renforcer ses ressources personnelles et préserver un équilibre durable entre les différentes sphères de vie
-.",
+presentation: "Cette formation invite à prendre du recul sur les sollicitations du quotidien et leurs impacts sur le bien-être, afin de retrouver un fonctionnement plus serein, renforcer ses ressources personnelles et préserver un équilibre durable entre les différentes sphères de vie.",
 objectifs: `
 •	Identifier les différents signes de surcharges mentales
 •	Réfléchir aux différentes pistes de solutions
@@ -328,8 +321,7 @@ id: 18,
 categorie: "Cadre professionnel ",
 titre: " Les couleurs de la vie comme outil de bien-être",
 image: "images/formation.jpg",
-presentation: " cette formation explore comment les couleurs peuvent devenir de véritables alliées pour favoriser l'harmonie, l'expression de soi et le bien-être au quotidien
-.",
+presentation: "Cette formation explore comment les couleurs peuvent devenir de véritables alliées pour favoriser l'harmonie, l'expression de soi et le bien-être au quotidien.",
 objectifs: `
 •	Identifier les couleurs comme outils de bien-être
 •	S'aider soi-même par les couleurs
@@ -348,8 +340,7 @@ id: 19,
 categorie: "Cadre professionnel ",
 titre: " Déontologie, communication et devoir de discrétion ",
 image: "images/formation.jpg",
-presentation: " Cette formation permet de mieux appréhender le cadre professionnel, les responsabilités liées à la fonction et les principes éthiques indispensables à une intervention respectueuse et de qualité
-.",
+presentation: "Cette formation permet de mieux appréhender le cadre professionnel, les responsabilités liées à la fonction et les principes éthiques indispensables à une intervention respectueuse et de qualité.",
 objectifs: `
 •	Repérer et contourner les pièges déontologiques les plus fréquents
 •	Comprendre et mesurer la responsabilité dans les actes
@@ -367,8 +358,7 @@ id: 20,
 categorie: "Cadre professionnel ",
 titre: " Booster la confiance en soi ",
 image: "images/formation.jpg",
-presentation: " Cette formation offre un espace de réflexion et d'expérimentation pour renforcer son épanouissement personnel et professionnel
-.",
+presentation: "Cette formation offre un espace de réflexion et d'expérimentation pour renforcer son épanouissement personnel et professionnel.",
 objectifs: `
 •	Distinguer confiance en soi et estime de soi
 •	Identifier les croyances limitantes et acceptation de soi

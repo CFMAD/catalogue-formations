@@ -357,7 +357,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 20,
 categorie: "Cadre professionnel",
 titre: " Booster la confiance en soi ",
-image: "images/affirmationsoi.jpg",
+image: "images/affirmation.jpg",
 presentation: "Cette formation offre un espace de réflexion et d'expérimentation pour renforcer son épanouissement personnel et professionnel.",
 objectifs: `
 •	Distinguer confiance en soi et estime de soi
@@ -375,7 +375,7 @@ date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 id: 21,
 categorie: "Cadre professionnel",
 titre: " Communication non violente et assertivité",
-image: "images/formation.jpg",
+image: "images/groupe.jpg",
 presentation: "Cette formation offre des repères concrets pour améliorer la qualité des échanges professionnels et prévenir les tensions dans les situations du quotidien.",
 objectifs: `
 •	Identifier les comportements déviants : mensonges, double discours, fuite…

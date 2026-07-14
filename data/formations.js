@@ -4,7 +4,7 @@ const formations = [
     id: 1,
     categorie: "Prévention, santé et sensibilisation",
     titre: "Prévention des chutes",
-    image: "images/postit.jpg",
+    image: "images/chutes.jpg",
     presentation: "Identifier les facteurs de risque de chute et développer une démarche de prévention adaptée aux bénéficiaires.",
     objectifs: `
 • Identifier les facteurs de risque
@@ -24,7 +24,7 @@ const formations = [
 id: 2,
 categorie: "Prévention, santé et sensibilisation",
 titre: "Gestion du stress",
-image: "images/groupe.jpg",
+image: "images/stress.jpg",
 presentation: "identifier les facteurs de risque liés au stress, d’adapter leur accompagnement aux situations rencontrées et de mettre en œuvre des actions de prévention favorisant le bien-être et la qualité de vie au travail.",
 objectifs: `
 •	Reconnaître leurs propres signaux de stress;
@@ -42,7 +42,7 @@ participants: "max 18 personnes",
 id: 3,
 categorie: "Prévention, santé et sensibilisation",
 titre: "Agressivité du bénéficiaire",
-image: "images/document.jpg",
+image: "images/agressivite.jpg",
 presentation: "Comprendre et anticiper les situations d'agressivité, de mieux gérer leurs émotions et d'acquérir des techniques concrètes pour prévenir et gérer efficacement les situations de crise avec les bénéficiaires.",
 objectifs: `
 •	Acquérir des outils permettant de gérer ses émotions ;
@@ -62,7 +62,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur"
 id: 4,
 categorie: "Prévention, santé et sensibilisation",
 titre: "Sexualité des bénéficiaires",
-image: "images/fluo.jpg",
+image: "images/sexualite.jpg",
 presentation: "Aborder des situations sensibles dans l’accompagnement des bénéficiaires et des familles. Identifier les situations à risque et adapter les pratiques et les réponses dans le respect et l’éthique.",
 objectifs: `
 •	Famille et problèmes liés à la sexualité
@@ -80,7 +80,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur"
 id: 5,
 categorie: "Prévention, santé et sensibilisation",
 titre: " La place de la spiritualité chez le bénéficiaire ",
-image: "images/pc.jpg",
+image: "images/spiritualite.jpg",
 presentation: "Mieux repérer et comprendre les questionnements existentiels et spirituels des bénéficiaires et de leur entourage, grâce à des outils d’identification et d’exploration favorisant un accompagnement adapté et bienveillant.",
 objectifs: `
 •	Former les personnes à l'usage et à la compréhension de deux groupes d'outils; 

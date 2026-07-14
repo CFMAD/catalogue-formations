@@ -371,6 +371,332 @@ tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple dem
 date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 },
 
+{
+id: 21,
+categorie: "Cadre professionnel ",
+titre: " Communication non violente et assertivité ",
+image: "images/formation.jpg",
+presentation: "Cette formation offre des repères concrets pour améliorer la qualité des échanges professionnels et prévenir les tensions dans les situations du quotidien.",
+objectifs: `
+•	Identifier les comportements déviants : mensonges, double discours, fuite…
+•	Identifier et amorcer le conflit ; Appliquer une communication professionnelle dans l’exercice d’un métier
+•	Identifier et repérer les freins et les stimulants à la communication professionnelle 
+•	Appliquer le devoir de discrétion
+`,
+formateur: "Madame Peeters ou Madame Wellens ",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 22,
+categorie: "Cadre professionnel ",
+titre: "Le langage corporel ",
+image: "images/formation.jpg",
+presentation: " Cette formation permet de mieux comprendre les messages véhiculés par les attitudes, les gestes et les expressions afin de favoriser une communication plus consciente, authentique et efficace.",
+objectifs: `
+•	Comprendre l'importance du langage corporel
+•	Identifier les différentes postures
+•	Mettre en lumière les expressions faciales, visuels et comportementales
+`,
+formateur: "Madame Coumans ",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
+},
+
+{
+id: 23,
+categorie: "Cadre professionnel ",
+titre: "Diminuer la fatigue et le stress",
+image: "images/formation.jpg",
+presentation: "Cette formation permet de mieux comprendre les messages véhiculés par les attitudes, les gestes et les expressions afin de favoriser une communication plus consciente, authentique et efficace.",
+objectifs: `
+•	Observer la respiration
+•	Se détendre par la respiration 
+•	Mettre le corps en mouvement
+•	Les bienfaits d'une respiration consciente et exercices de détente
+•	Dynamique corporelle et mise en mouvement
+`,
+formateur: "Madame Coumans",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
+},
+
+{
+id: 23,
+categorie: "Cadre professionnel ",
+titre: "Harcèlement / Emprise (modèle de Lifton)",
+image: "images/formation.jpg",
+presentation: "Cette formation apporte des repères pour reconnaître les situations à risque, renforcer sa capacité de discernement et préserver son intégrité dans un cadre personnel ou professionnel.",
+objectifs: `
+•	Reconnaitre et identifier le harcèlement moral
+•	Se positionner, se protéger des relations d'emprise
+•	Se reconstruire
+`,
+formateur: "Madame Coumans",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
+},
+
+{
+id: 24,
+categorie: "Cadre professionnel ",
+titre: "Utilisation de l’IA dans le métier d’AF",
+image: "images/formation.jpg",
+presentation: "Cette formation propose de découvrir les possibilités offertes par l’IA comme outil de soutien au service des professionnels et des bénéficiaires.",
+objectifs: `
+•	Optimiser le quotidien: planification des tâches, générer des contenus personnalisés (menus, plans d'activités...)
+•	Améliorer la communication (assistant vocal, rappel de rendez-vous...) pour et avec le bénéficiaire OU pour et avec l'équipe pluridisciplinaire
+`,
+formateur: "Madame List",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 25,
+categorie: "Travailler en équipe",
+titre: "Supervision d’équipe",
+image: "images/formation.jpg",
+presentation: "Cette démarche favorise la prise de recul, le développement des compétences individuelles et collectives ainsi que le renforcement de la cohésion au sein des équipes dans une dynamique d'amélioration continue.",
+objectifs: `
+•	Analyses de situations concrètes
+•	Réflexion sur les postures professionnelles et/ou relationnelles
+•	Réflexion et analyse du développement des compétences
+•	Réflexion sur le fonctionnement de l'équipe ou institution
+•	Réflexion en intelligence collective,...`,
+formateur: "Madame List ou Madame Coumans ou Monsieur Zumbo",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 26,
+categorie: "Travailler en équipe",
+titre: "Renforcer la cohésion d'équipe par les accords Toltèques",
+image: "images/formation.jpg",
+presentation: "Cette formation invite à développer une dynamique collective positive, propice à la confiance, à la collaboration et au bien-être au travail.",
+objectifs: `
+•	Améliorer la communication et les relations interpersonnelles en appliquant les principes de respect, de non-jugement et d'authenticité.
+•	Réduction du stress
+•	Ambiance de travail sereine et collaborative
+•	Meilleure gestion des conflits...
+`,
+formateur: "Madame Peeters",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 27,
+categorie: "Travailler en équipe",
+titre: "Les 5C du travail d’équipe",
+image: "images/formation.jpg",
+presentation: "Cette formation invite les participants à renforcer les dynamiques de coopération, de confiance et d'engagement afin de construire une équipe plus performante, solidaire et orientée vers des objectifs communs.",
+objectifs: `
+•	Analyse des 5 C = les piliers qui favorisent une collaboration efficace. 
+•	Echanger clairement des informations
+•	Travailler ensemble vers un but commun
+•	S'appuyer sur des compétences diverses
+•	Se faire confiance mutuellement
+•	Créer un sentiment d'appartenance
+`,
+formateur: "Madame Peeters",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 28,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "Manutention des personnes",
+image: "images/formation.jpg",
+presentation: "Cette formation apporte les repères essentiels pour adopter des pratiques respectueuses du corps et sécurisées dans les situations de transfert et d'accompagnement au quotidien.",
+objectifs: `
+•	Connaître les techniques de manutention
+•	Appliquer ces différentes techniques lors des transferts des bénéficiaires
+•	Définitions des techniques de manutention
+•	Education posturale et notion d'ergonomie
+•	Rôle de la colonne vertébrale
+•	Règles essentielles de manutention
+`,
+formateur: "Madame Saeys ou Monsieur Stumpfl",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 29,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "Manutention des charges lourdes",
+image: "images/formation.jpg",
+presentation: "Cette formation permet d'acquérir les bonnes pratiques de manutention et d'adopter des gestes sécuritaires favorisant la protection du dos, la prévention des blessures et le maintien durable de la santé au travail.",
+objectifs: `
+•	Connaître les techniques de manutention
+•	Appliquer ces différentes techniques lors de manipulation d'objets ou charges lourdes
+•	Définitions des techniques de manutention
+•	Education posturale et notion d'ergonomie
+•	Rôle de la colonne vertébrale
+•	Règles essentielles de manutention
+`,
+formateur: "Madame Saeys ou Monsieur Stumpfl",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 30,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "Cuisine des restes ",
+image: "images/formation.jpg",
+presentation: "Cette formation propose des pistes concrètes pour valoriser les restes alimentaires et adopter des habitudes de consommation plus durables tout en se faisant plaisir en cuisine.",
+objectifs: `
+•	Eviter le gaspillage alimentaire
+•	La conservation optimale des aliments
+•	Les recettes avec des restes : créer et cuisiner des repas avec les restes 
+`,
+formateur: "Madame Coumans",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
+},
+
+{
+id: 31,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "Ateliers autour de la cuisine à petit prix",
+image: "images/formation.jpg",
+presentation: "Cette formation pratique encourage une alimentation adaptée aux besoins de chacun tout en favorisant une consommation responsable et économique.",
+objectifs: `
+•	Gérer un budget alimentaire
+•	Adapter les repas aux besoins du bénéficiaire
+•	Développer des compétences culinaires pratiques
+•	Adopter des comportements responsables
+`,
+formateur: "Madame Coumans",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
+},
+
+{
+id: 32,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "Ateliers autour de la cuisine à petit prix",
+image: "images/formation.jpg",
+presentation: "Cette formation permet d'adopter des habitudes favorisant une gestion financière plus sereine, de mieux anticiper les dépenses et d'identifier les ressources utiles pour faire face aux difficultés éventuelles.",
+objectifs: `
+•	Comprendre les bases de la gestion budgétaire
+•	Aide à une meilleure gestion quotidienne (planifier les dépenses, astuce pour économiser...)
+•	Connaitre les ressources et les relais disponibles
+•	Sensibiliser à l'importance des petits gestes quotidiens
+`,
+formateur: "Madame List ou Madame Bordenga",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 33,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "Les bases de l'ergothérapie et adaptation du domicile",
+image: "images/formation.jpg",
+presentation: " Cette formation propose des repères pratiques pour identifier les obstacles du quotidien et favoriser le maintien à domicile grâce à des aménagements simples, adaptés et accessibles.",
+objectifs: `
+•	Découvrir le rôle de l'ergothérapie
+•	Observer et analyser l'environnement du bénéficiaire
+•	Proposer des adaptations simples et économiques
+•	Prévenir les accidents domestiques
+•	Soutenir l'autonomie et le bien-être du bénéficiaire
+`,
+formateur: "Madame Wellens",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 34,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "Les soins palliatifs",
+image: "images/formation.jpg",
+presentation: "Cette formation permet de mieux comprendre les enjeux de l'accompagnement en fin de vie et la place des différents acteurs dans cette démarche humaine et bienveillante.",
+objectifs: `
+•	Comprendre les principes des soins palliatifs et leur cadre d’intervention
+•	Adopter une posture professionnelle adaptée à l’accompagnement de fin de vie
+•	Collaborer efficacement avec l’entourage et les professionnels de santé
+`,
+formateur: "Madame Saeys",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 35,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "L’école du dos",
+image: "images/formation.jpg",
+presentation: "Cette formation sensibilise à l'importance de la prévention et du respect du corps dans les activités de la vie courante et professionnelle.",
+objectifs: `
+•	Comprendre le fonctionnement du dos et les causes des douleurs
+•	Prévenir les troubles musculosquelettiques liés au travail
+•	Adopter les gestes et postures protecteurs au quotidien
+Contenu:
+Notion de base sur l'anatomie du dos et les facteurs de risque Apprentissage des bonnes postures et gestes adaptés aux situations professionnelles Exercices simples et conseils pratiques pour préserver son dos
+`,
+formateur: "Madame Saeys ou Madame Emmanuele",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
+
+{
+id: 36,
+categorie: "Le métier à domicile et ses spécificités pratiques",
+titre: "L’école du dos",
+image: "images/formation.jpg",
+presentation: "Cette formation sensibilise à l'importance de la prévention et du respect du corps dans les activités de la vie courante et professionnelle.",
+objectifs: `
+•	Comprendre le fonctionnement du dos et les causes des douleurs
+•	Prévenir les troubles musculosquelettiques liés au travail
+•	Adopter les gestes et postures protecteurs au quotidien
+Contenu:
+Notion de base sur l'anatomie du dos et les facteurs de risque Apprentissage des bonnes postures et gestes adaptés aux situations professionnelles Exercices simples et conseils pratiques pour préserver son dos
+`,
+formateur: "Madame Saeys ou Madame Emmanuele",
+public: "Professionnels de terrain, AF, AMS, AS",
+participants: "max 18 personnes",
+tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
+date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+},
 
 
 

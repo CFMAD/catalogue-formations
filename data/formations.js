@@ -43,7 +43,7 @@ id: 3,
 categorie: "Prévention, santé et sensibilisation ",
 titre: "Agressivité du bénéficiaire",
 image: "images/formation.jpg",
-presentation: "Comprendre et anticiper les situations d agressivité, de mieux gérer leurs émotions et d acquérir des techniques concrètes pour prévenir et gérer efficacement les situations de crise avec les bénéficiaires.",
+presentation: "Comprendre et anticiper les situations d'agressivité, de mieux gérer leurs émotions et d'acquérir des techniques concrètes pour prévenir et gérer efficacement les situations de crise avec les bénéficiaires.",
 objectifs: `
 •	Acquérir des outils permettant de gérer ses émotions ;
 •	Identifier et anticiper les causes de l’agressivité du bénéficiaire;
@@ -63,7 +63,7 @@ id: 4,
 categorie: "Prévention, santé et sensibilisation ",
 titre: "Sexualité des bénéficiaires",
 image: "images/formation.jpg",
-presentation: "Aborder des situations sensibles dans l’accompagnement des bénéficiaires et des familles. Identifier les situations à risque et d’adapter les pratiques et les réponses dans le respect et l’éthique
+presentation: "Aborder des situations sensibles dans l'accompagnement des bénéficiaires et des familles. Identifier les situations à risque et d'adapter les pratiques et les réponses dans le respect et l'éthique
  .",
 objectifs: `
 •	Famille et problèmes liés à la sexualité

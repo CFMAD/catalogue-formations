@@ -22,7 +22,7 @@ const formations = [
     
 {
 id: 2,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: "Gestion du stress",
 image: "images/formation.jpg",
 presentation: "identifier les facteurs de risque liés au stress, d’adapter leur accompagnement aux situations rencontrées et de mettre en œuvre des actions de prévention favorisant le bien-être et la qualité de vie au travail.",
@@ -40,7 +40,7 @@ participants: "max 18 personnes",
 
 {
 id: 3,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: "Agressivité du bénéficiaire",
 image: "images/formation.jpg",
 presentation: "Comprendre et anticiper les situations d'agressivité, de mieux gérer leurs émotions et d'acquérir des techniques concrètes pour prévenir et gérer efficacement les situations de crise avec les bénéficiaires.",
@@ -60,7 +60,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur"
 
 {
 id: 4,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: "Sexualité des bénéficiaires",
 image: "images/formation.jpg",
 presentation: "Aborder des situations sensibles dans l’accompagnement des bénéficiaires et des familles. Identifier les situations à risque et adapter les pratiques et les réponses dans le respect et l’éthique.",
@@ -78,7 +78,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur"
 
 {
 id: 5,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " La place de la spiritualité chez le bénéficiaire ",
 image: "images/formation.jpg",
 presentation: "Mieux repérer et comprendre les questionnements existentiels et spirituels des bénéficiaires et de leur entourage, grâce à des outils d’identification et d’exploration favorisant un accompagnement adapté et bienveillant.",
@@ -96,7 +96,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 
 {
 id: 6,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Se régénérer par la neuroplasticité. ",
 image: "images/formation.jpg",
 presentation: " Stimuler la plasticité neuronale afin de favoriser le bien-être. Les bienfaits de la respiration en toute conscience. Exercices de détente et de relaxation. Mise en mouvements spécifiques. Les duos en miroir ",
@@ -114,7 +114,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 
 {
 id: 7,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Le deuil ",
 image: "images/formation.jpg",
 presentation: " Cette formation propose un espace de compréhension et de réflexion pour mieux appréhender les réalités de la perte, tant pour soi que dans l'accompagnement des autres.",
@@ -132,7 +132,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 8,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Premiers secours ",
 image: "images/formation.jpg",
 presentation: " Réagir efficacement face à une situation critique et adopter les bons réflexes afin de protéger les personnes, limiter les conséquences d'un accident et favoriser une prise en charge rapide.",
@@ -152,7 +152,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 9,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Maladie de Parkinson ",
 image: "images/formation.jpg",
 presentation: " Mieux comprendre les réalités vécues par les bénéficiaires afin de favoriser un accompagnement adapté, bienveillant et respectueux de leurs besoins.",
@@ -169,7 +169,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 
 {
 id: 10,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Maladies mentales ",
 image: "images/formation.jpg",
 presentation: "Meilleure compréhension des principaux troubles psychiques afin favoriser une attitude adaptée, sécurisante et bienveillante dans l'accompagnement des bénéficiaires.",
@@ -188,7 +188,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 11,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Maladies cardio-vasculaires ",
 image: "images/formation.jpg",
 presentation: " mieux comprendre leurs enjeux afin de favoriser un accompagnement préventif, sécurisant et adapté aux besoins des bénéficiaires au quotidien.",
@@ -206,7 +206,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 12,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Troubles cognitifs ",
 image: "images/formation.jpg",
 presentation: "Cette formation offre des repères pour mieux comprendre les réalités des troubles cognitifs et favoriser un accompagnement respectueux, sécurisant et centré sur les besoins de la personne et de son entourage.",
@@ -225,7 +225,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 13,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Hygiène et prévention dans le métier ",
 image: "images/formation.jpg",
 presentation: "Cette formation sensibilise aux bonnes pratiques professionnelles permettant de préserver la santé, la sécurité et le bien-être tant des bénéficiaires que des intervenants.",
@@ -243,7 +243,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 14,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Accidents domestiques ",
 image: "images/formation.jpg",
 presentation: "Cette formation permet de renforcer la vigilance au quotidien et de contribuer à un environnement de vie plus sûr pour les bénéficiaires comme pour les intervenants.",
@@ -261,7 +261,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 15,
-categorie: "Prévention, santé et sensibilisation ",
+categorie: "Prévention, santé et sensibilisation",
 titre: " Le diabète ",
 image: "images/formation.jpg",
 presentation: "Cette formation permet de mieux comprendre les réalités vécues par les personnes diabétiques afin de leur offrir un accompagnement adapté, attentif et bienveillant.",
@@ -280,7 +280,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 16,
-categorie: "Cadre professionnel ",
+categorie: "Cadre professionnel",
 titre: " Affirmation de soi : comment poser mes limites ?",
 image: "images/formation.jpg",
 presentation: "Cette formation invite à développer une communication équilibrée et respectueuse de soi comme des autres, afin de renforcer sa confiance, préserver ses ressources personnelles et construire des relations professionnelles plus sereines.",
@@ -290,7 +290,7 @@ objectifs: `
 •	Améliorer son assertivité, communiquer un refus de manière claire et respectueuse
 
 `,
-formateur: "Madame Peeters ",
+formateur: "Madame Peeters",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
@@ -299,7 +299,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 17,
-categorie: "Cadre professionnel ",
+categorie: "Cadre professionnel",
 titre: " La charge mentale - Comment regagner l'équilibre ?",
 image: "images/formation.jpg",
 presentation: "Cette formation invite à prendre du recul sur les sollicitations du quotidien et leurs impacts sur le bien-être, afin de retrouver un fonctionnement plus serein, renforcer ses ressources personnelles et préserver un équilibre durable entre les différentes sphères de vie.",
@@ -309,7 +309,7 @@ objectifs: `
 •	Apprendre à ralentir le flux des idées
 •	Se détendre par la respiration
 `,
-formateur: "Madame Coumans ",
+formateur: "Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
@@ -318,7 +318,7 @@ date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 
 {
 id: 18,
-categorie: "Cadre professionnel ",
+categorie: "Cadre professionnel",
 titre: " Les couleurs de la vie comme outil de bien-être",
 image: "images/formation.jpg",
 presentation: "Cette formation explore comment les couleurs peuvent devenir de véritables alliées pour favoriser l'harmonie, l'expression de soi et le bien-être au quotidien.",
@@ -328,7 +328,7 @@ objectifs: `
 •	Savoir distinguer les 2 formes de rapports aux couleurs
 •	Identifier l'utilisation quotidienne des couleurs
 `,
-formateur: "Madame Coumans ",
+formateur: "Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
@@ -337,7 +337,7 @@ date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 
 {
 id: 19,
-categorie: "Cadre professionnel ",
+categorie: "Cadre professionnel",
 titre: " Déontologie, communication et devoir de discrétion ",
 image: "images/formation.jpg",
 presentation: "Cette formation permet de mieux appréhender le cadre professionnel, les responsabilités liées à la fonction et les principes éthiques indispensables à une intervention respectueuse et de qualité.",
@@ -346,7 +346,7 @@ objectifs: `
 •	Comprendre et mesurer la responsabilité dans les actes
 •	Définition du cadre déontologique, du secret professionnel, du devoir de discrétion et des implications
 `,
-formateur: "Madame Bordenga ou Madame Coumans ",
+formateur: "Madame Bordenga ou Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
@@ -355,7 +355,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 
 {
 id: 20,
-categorie: "Cadre professionnel ",
+categorie: "Cadre professionnel",
 titre: " Booster la confiance en soi ",
 image: "images/formation.jpg",
 presentation: "Cette formation offre un espace de réflexion et d'expérimentation pour renforcer son épanouissement personnel et professionnel.",
@@ -364,7 +364,7 @@ objectifs: `
 •	Identifier les croyances limitantes et acceptation de soi
 •	Outils et techniques, plan d'actions et mises en pratique
 `,
-formateur: "Madame Coumans ",
+formateur: "Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
@@ -373,8 +373,8 @@ date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 
 {
 id: 21,
-categorie: "Cadre professionnel ",
-titre: " Communication non violente et assertivité ",
+categorie: "Cadre professionnel",
+titre: " Communication non violente et assertivité",
 image: "images/formation.jpg",
 presentation: "Cette formation offre des repères concrets pour améliorer la qualité des échanges professionnels et prévenir les tensions dans les situations du quotidien.",
 objectifs: `
@@ -383,7 +383,7 @@ objectifs: `
 •	Identifier et repérer les freins et les stimulants à la communication professionnelle 
 •	Appliquer le devoir de discrétion
 `,
-formateur: "Madame Peeters ou Madame Wellens ",
+formateur: "Madame Peeters ou Madame Wellens",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
@@ -392,25 +392,25 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 
 {
 id: 22,
-categorie: "Cadre professionnel ",
-titre: "Le langage corporel ",
+categorie: "Cadre professionnel",
+titre: "Le langage corporel",
 image: "images/formation.jpg",
-presentation: " Cette formation permet de mieux comprendre les messages véhiculés par les attitudes, les gestes et les expressions afin de favoriser une communication plus consciente, authentique et efficace.",
+presentation: "Cette formation permet de mieux comprendre les messages véhiculés par les attitudes, les gestes et les expressions afin de favoriser une communication plus consciente, authentique et efficace.",
 objectifs: `
 •	Comprendre l'importance du langage corporel
 •	Identifier les différentes postures
 •	Mettre en lumière les expressions faciales, visuels et comportementales
 `,
-formateur: "Madame Coumans ",
+formateur: "Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
-date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
+date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 },
 
 {
 id: 23,
-categorie: "Cadre professionnel ",
+categorie: "Cadre professionnel",
 titre: "Diminuer la fatigue et le stress",
 image: "images/formation.jpg",
 presentation: "Cette formation permet de mieux comprendre les messages véhiculés par les attitudes, les gestes et les expressions afin de favoriser une communication plus consciente, authentique et efficace.",
@@ -425,12 +425,12 @@ formateur: "Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
-date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
+date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 },
 
 {
 id: 23,
-categorie: "Cadre professionnel ",
+categorie: "Cadre professionnel",
 titre: "Harcèlement / Emprise (modèle de Lifton)",
 image: "images/formation.jpg",
 presentation: "Cette formation apporte des repères pour reconnaître les situations à risque, renforcer sa capacité de discernement et préserver son intégrité dans un cadre personnel ou professionnel.",
@@ -443,12 +443,12 @@ formateur: "Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
-date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
+date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 },
 
 {
 id: 24,
-categorie: "Cadre professionnel ",
+categorie: "Cadre professionnel",
 titre: "Utilisation de l’IA dans le métier d’AF",
 image: "images/formation.jpg",
 presentation: "Cette formation propose de découvrir les possibilités offertes par l’IA comme outil de soutien au service des professionnels et des bénéficiaires.",
@@ -598,7 +598,7 @@ formateur: "Madame Coumans",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
 tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
-date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
+date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 },
 
 {

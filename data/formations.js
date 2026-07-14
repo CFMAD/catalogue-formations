@@ -680,23 +680,30 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 
 {
 id: 36,
-categorie: "Le métier à domicile et ses spécificités pratiques",
-titre: "L’école du dos",
+categorie: "Les packs professionnels",
+titre: "Pack nouvelles engagées AF",
 image: "images/formation.jpg",
-presentation: "Cette formation sensibilise à l'importance de la prévention et du respect du corps dans les activités de la vie courante et professionnelle.",
+presentation: " Journée conçue pour accompagner les AF dans leur prise de fonction en leur apportant les repères essentiels liés au cadre professionnel, à la posture attendue et aux bonnes pratiques favorisant un accompagnement sécurisant et de qualité auprès des bénéficiaires.",
 objectifs: `
-•	Comprendre le fonctionnement du dos et les causes des douleurs
-•	Prévenir les troubles musculosquelettiques liés au travail
-•	Adopter les gestes et postures protecteurs au quotidien
-Contenu:
-Notion de base sur l'anatomie du dos et les facteurs de risque Apprentissage des bonnes postures et gestes adaptés aux situations professionnelles Exercices simples et conseils pratiques pour préserver son dos
+Cette journée vise à poser un cadre professionnel clair dès l'entrée en fonction, en renforçant la compréhension du rôle d'AF, de ses limites et des règles déontologiques, tout en développant des pratiques sécurisées de manutention au domicile
+•	08h15: Accueil 
+•	08h30-10h30 : Déontologie: respect du domicile, discrétion, relation bénéficiaire
+•	10h30-10h45 : Pause
+•	10h45-12h45 : Limites du métier : cadre de fonction, refus légitime
+•	12h45-13h30 : Temps de table (sandwich offert)
+•	13h30-15h45 : Manutention & gestes et postures: prévention TMS, manutention des personnes et des charges
+•	15h45-16h00 : Evaluation et clôture
 `,
-formateur: "Madame Saeys ou Madame Emmanuele",
+formateur: "A définir",
 public: "Professionnels de terrain, AF, AMS, AS",
 participants: "max 18 personnes",
-tarif: "Pour une offre sur mesure, le tarif vous sera communiqué sur simple demande selon vos besoins",
-date: "Modulables, en fonction de vos disponibilités et de celles du formateur "
+tarif: `140€ /participant (une attestation de participation sera envoyée après la formation)
+Complétez ce formulaire d'inscription individuelle : XYZ
+(Attention, la formation ne sera pas maintenue si nous n'avons pas un minimum de 10 participants pour la journée)
+`,
+date: "Dates à définir"
 },
+
 
 
 

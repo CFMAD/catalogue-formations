@@ -394,7 +394,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 22,
 categorie: "Cadre professionnel",
 titre: "Le langage corporel",
-image: "images/formation.jpg",
+image: "images/langage.jpg",
 presentation: "Cette formation permet de mieux comprendre les messages véhiculés par les attitudes, les gestes et les expressions afin de favoriser une communication plus consciente, authentique et efficace.",
 objectifs: `
 •	Comprendre l'importance du langage corporel
@@ -412,7 +412,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 id: 23,
 categorie: "Cadre professionnel",
 titre: "Diminuer la fatigue et le stress",
-image: "images/formation.jpg",
+image: "images/fatigue.jpg",
 presentation: "Cette formation permet de mieux comprendre les messages véhiculés par les attitudes, les gestes et les expressions afin de favoriser une communication plus consciente, authentique et efficace.",
 objectifs: `
 •	Observer la respiration
@@ -432,7 +432,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 id: 23,
 categorie: "Cadre professionnel",
 titre: "Harcèlement / Emprise (modèle de Lifton)",
-image: "images/formation.jpg",
+image: "images/harcelement.jpg",
 presentation: "Cette formation apporte des repères pour reconnaître les situations à risque, renforcer sa capacité de discernement et préserver son intégrité dans un cadre personnel ou professionnel.",
 objectifs: `
 •	Reconnaitre et identifier le harcèlement moral
@@ -450,7 +450,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 id: 24,
 categorie: "Cadre professionnel",
 titre: "Utilisation de l’IA dans le métier d’AF",
-image: "images/formation.jpg",
+image: "images/ia.jpg",
 presentation: "Cette formation propose de découvrir les possibilités offertes par l’IA comme outil de soutien au service des professionnels et des bénéficiaires.",
 objectifs: `
 •	Optimiser le quotidien: planification des tâches, générer des contenus personnalisés (menus, plans d'activités...)
@@ -467,7 +467,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 25,
 categorie: "Travailler en équipe",
 titre: "Supervision d’équipe",
-image: "images/formation.jpg",
+image: "images/supervision.jpg",
 presentation: "Cette démarche favorise la prise de recul, le développement des compétences individuelles et collectives ainsi que le renforcement de la cohésion au sein des équipes dans une dynamique d'amélioration continue.",
 objectifs: `
 •	Analyses de situations concrètes

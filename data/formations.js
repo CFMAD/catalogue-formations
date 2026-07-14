@@ -98,7 +98,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 id: 6,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Se régénérer par la neuroplasticité. ",
-image: "images/noter.jpg",
+image: "images/neuro2.jpg",
 presentation: " Stimuler la plasticité neuronale afin de favoriser le bien-être. Les bienfaits de la respiration en toute conscience. Exercices de détente et de relaxation. Mise en mouvements spécifiques. Les duos en miroir ",
 objectifs: `
 •	Mettre le corps en mouvements corporels avec des exercices qui sortent des habitudes et qui améliorent la plasticité neuronale;
@@ -116,7 +116,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 id: 7,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Le deuil ",
-image: "images/ecrire.jpg",
+image: "images/deuil.jpg",
 presentation: " Cette formation propose un espace de compréhension et de réflexion pour mieux appréhender les réalités de la perte, tant pour soi que dans l'accompagnement des autres.",
 objectifs: `
 •	Les étapes et le mécanisme du deuil. Comment gérer
@@ -134,7 +134,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 8,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Premiers secours ",
-image: "images/ecrire2.jpg",
+image: "images/secours.jpg",
 presentation: " Réagir efficacement face à une situation critique et adopter les bons réflexes afin de protéger les personnes, limiter les conséquences d'un accident et favoriser une prise en charge rapide.",
 objectifs: `
 •	Identifier une situation d'urgence
@@ -154,7 +154,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 9,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Maladie de Parkinson ",
-image: "images/formation.jpg",
+image: "images/parkinson.jpg",
 presentation: " Mieux comprendre les réalités vécues par les bénéficiaires afin de favoriser un accompagnement adapté, bienveillant et respectueux de leurs besoins.",
 objectifs: `
 •	Acquérir des connaissances sur la maladie et ses symptômes
@@ -171,7 +171,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 10,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Maladies mentales ",
-image: "images/formation.jpg",
+image: "images/santementale.jpg",
 presentation: "Meilleure compréhension des principaux troubles psychiques afin favoriser une attitude adaptée, sécurisante et bienveillante dans l'accompagnement des bénéficiaires.",
 objectifs: `
 •	Identifier, différencier et comprendre les maladies mentales
@@ -190,7 +190,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 11,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Maladies cardio-vasculaires ",
-image: "images/formation.jpg",
+image: "images/cardio.jpg",
 presentation: " mieux comprendre leurs enjeux afin de favoriser un accompagnement préventif, sécurisant et adapté aux besoins des bénéficiaires au quotidien.",
 objectifs: `
 •	Connaitre et reconnaitre les risques cardiovasculaires, leurs facteurs et importance de la prévention.
@@ -208,7 +208,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 12,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Troubles cognitifs ",
-image: "images/formation.jpg",
+image: "images/neuro.jpg",
 presentation: "Cette formation offre des repères pour mieux comprendre les réalités des troubles cognitifs et favoriser un accompagnement respectueux, sécurisant et centré sur les besoins de la personne et de son entourage.",
 objectifs: `
 •	Comprendre les troubles (causes, les types...)
@@ -227,7 +227,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 13,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Hygiène et prévention dans le métier ",
-image: "images/formation.jpg",
+image: "images/hygiene.jpg",
 presentation: "Cette formation sensibilise aux bonnes pratiques professionnelles permettant de préserver la santé, la sécurité et le bien-être tant des bénéficiaires que des intervenants.",
 objectifs: `
 •	Identifier les règles d'hygiène indispensables dans la pratique quotidienne;
@@ -245,7 +245,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 14,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Accidents domestiques ",
-image: "images/formation.jpg",
+image: "images/accident.jpg",
 presentation: "Cette formation permet de renforcer la vigilance au quotidien et de contribuer à un environnement de vie plus sûr pour les bénéficiaires comme pour les intervenants.",
 objectifs: `
 •	Identifier les principaux risques d'accidents domestiques au domicile;
@@ -263,7 +263,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 15,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Le diabète ",
-image: "images/formation.jpg",
+image: "images/diabete.jpg",
 presentation: "Cette formation permet de mieux comprendre les réalités vécues par les personnes diabétiques afin de leur offrir un accompagnement adapté, attentif et bienveillant.",
 objectifs: `
 •	Comprendre les bases du diabète et ses impacts sur la vie quotidienne ;
@@ -282,7 +282,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 16,
 categorie: "Cadre professionnel",
 titre: " Affirmation de soi : comment poser mes limites ?",
-image: "images/formation.jpg",
+image: "images/document.jpg",
 presentation: "Cette formation invite à développer une communication équilibrée et respectueuse de soi comme des autres, afin de renforcer sa confiance, préserver ses ressources personnelles et construire des relations professionnelles plus sereines.",
 objectifs: `
 •	Comprendre la différence entre assertivité, inhibition et agressivité
@@ -301,7 +301,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 17,
 categorie: "Cadre professionnel",
 titre: " La charge mentale - Comment regagner l'équilibre ?",
-image: "images/formation.jpg",
+image: "images/chargementale.jpg",
 presentation: "Cette formation invite à prendre du recul sur les sollicitations du quotidien et leurs impacts sur le bien-être, afin de retrouver un fonctionnement plus serein, renforcer ses ressources personnelles et préserver un équilibre durable entre les différentes sphères de vie.",
 objectifs: `
 •	Identifier les différents signes de surcharges mentales
@@ -320,7 +320,7 @@ date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 id: 18,
 categorie: "Cadre professionnel",
 titre: " Les couleurs de la vie comme outil de bien-être",
-image: "images/formation.jpg",
+image: "images/couleurs.jpg",
 presentation: "Cette formation explore comment les couleurs peuvent devenir de véritables alliées pour favoriser l'harmonie, l'expression de soi et le bien-être au quotidien.",
 objectifs: `
 •	Identifier les couleurs comme outils de bien-être
@@ -339,7 +339,7 @@ date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM "
 id: 19,
 categorie: "Cadre professionnel",
 titre: " Déontologie, communication et devoir de discrétion ",
-image: "images/formation.jpg",
+image: "images/deonto.jpg",
 presentation: "Cette formation permet de mieux appréhender le cadre professionnel, les responsabilités liées à la fonction et les principes éthiques indispensables à une intervention respectueuse et de qualité.",
 objectifs: `
 •	Repérer et contourner les pièges déontologiques les plus fréquents
@@ -357,7 +357,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 20,
 categorie: "Cadre professionnel",
 titre: " Booster la confiance en soi ",
-image: "images/formation.jpg",
+image: "images/affirmationsoi.jpg",
 presentation: "Cette formation offre un espace de réflexion et d'expérimentation pour renforcer son épanouissement personnel et professionnel.",
 objectifs: `
 •	Distinguer confiance en soi et estime de soi

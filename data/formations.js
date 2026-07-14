@@ -486,7 +486,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 26,
 categorie: "Travailler en équipe",
 titre: "Renforcer la cohésion d'équipe par les accords Toltèques",
-image: "images/formation.jpg",
+image: "images/equipe.jpg",
 presentation: "Cette formation invite à développer une dynamique collective positive, propice à la confiance, à la collaboration et au bien-être au travail.",
 objectifs: `
 •	Améliorer la communication et les relations interpersonnelles en appliquant les principes de respect, de non-jugement et d'authenticité.
@@ -505,7 +505,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 27,
 categorie: "Travailler en équipe",
 titre: "Les 5C du travail d’équipe",
-image: "images/formation.jpg",
+image: "images/5C.jpg",
 presentation: "Cette formation invite les participants à renforcer les dynamiques de coopération, de confiance et d'engagement afin de construire une équipe plus performante, solidaire et orientée vers des objectifs communs.",
 objectifs: `
 •	Analyse des 5 C = les piliers qui favorisent une collaboration efficace. 
@@ -526,7 +526,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 28,
 categorie: "Le métier à domicile et ses spécificités pratiques",
 titre: "Manutention des personnes",
-image: "images/formation.jpg",
+image: "images/manutention.jpg",
 presentation: "Cette formation apporte les repères essentiels pour adopter des pratiques respectueuses du corps et sécurisées dans les situations de transfert et d'accompagnement au quotidien.",
 objectifs: `
 •	Connaître les techniques de manutention
@@ -547,7 +547,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 29,
 categorie: "Le métier à domicile et ses spécificités pratiques",
 titre: "Manutention des charges lourdes",
-image: "images/formation.jpg",
+image: "images/charges.jpg",
 presentation: "Cette formation permet d'acquérir les bonnes pratiques de manutention et d'adopter des gestes sécuritaires favorisant la protection du dos, la prévention des blessures et le maintien durable de la santé au travail.",
 objectifs: `
 •	Connaître les techniques de manutention
@@ -568,7 +568,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 30,
 categorie: "Le métier à domicile et ses spécificités pratiques",
 titre: "Cuisine des restes ",
-image: "images/formation.jpg",
+image: "images/cuisine.jpg",
 presentation: "Cette formation propose des pistes concrètes pour valoriser les restes alimentaires et adopter des habitudes de consommation plus durables tout en se faisant plaisir en cuisine.",
 objectifs: `
 •	Eviter le gaspillage alimentaire
@@ -586,7 +586,7 @@ date: " Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 id: 31,
 categorie: "Le métier à domicile et ses spécificités pratiques",
 titre: "Ateliers autour de la cuisine à petit prix",
-image: "images/formation.jpg",
+image: "images/cuisine2.jpg",
 presentation: "Cette formation pratique encourage une alimentation adaptée aux besoins de chacun tout en favorisant une consommation responsable et économique.",
 objectifs: `
 •	Gérer un budget alimentaire
@@ -604,8 +604,8 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 {
 id: 32,
 categorie: "Le métier à domicile et ses spécificités pratiques",
-titre: "Ateliers autour de la cuisine à petit prix",
-image: "images/formation.jpg",
+titre: "Gestion budgétaire",
+image: "images/budget.jpg",
 presentation: "Cette formation permet d'adopter des habitudes favorisant une gestion financière plus sereine, de mieux anticiper les dépenses et d'identifier les ressources utiles pour faire face aux difficultés éventuelles.",
 objectifs: `
 •	Comprendre les bases de la gestion budgétaire
@@ -624,7 +624,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 33,
 categorie: "Le métier à domicile et ses spécificités pratiques",
 titre: "Les bases de l'ergothérapie et adaptation du domicile",
-image: "images/formation.jpg",
+image: "images/ergo.jpg",
 presentation: " Cette formation propose des repères pratiques pour identifier les obstacles du quotidien et favoriser le maintien à domicile grâce à des aménagements simples, adaptés et accessibles.",
 objectifs: `
 •	Découvrir le rôle de l'ergothérapie
@@ -644,7 +644,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 34,
 categorie: "Le métier à domicile et ses spécificités pratiques",
 titre: "Les soins palliatifs",
-image: "images/formation.jpg",
+image: "images/palliatif.jpg",
 presentation: "Cette formation permet de mieux comprendre les enjeux de l'accompagnement en fin de vie et la place des différents acteurs dans cette démarche humaine et bienveillante.",
 objectifs: `
 •	Comprendre les principes des soins palliatifs et leur cadre d’intervention
@@ -662,7 +662,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 35,
 categorie: "Le métier à domicile et ses spécificités pratiques",
 titre: "L’école du dos",
-image: "images/formation.jpg",
+image: "images/dos.jpg",
 presentation: "Cette formation sensibilise à l'importance de la prévention et du respect du corps dans les activités de la vie courante et professionnelle.",
 objectifs: `
 •	Comprendre le fonctionnement du dos et les causes des douleurs
@@ -682,7 +682,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur 
 id: 36,
 categorie: "Les packs professionnels",
 titre: "Pack nouvelles engagées AF",
-image: "images/formation.jpg",
+image: "images/fluo.jpg",
 presentation: " Journée conçue pour accompagner les AF dans leur prise de fonction en leur apportant les repères essentiels liés au cadre professionnel, à la posture attendue et aux bonnes pratiques favorisant un accompagnement sécurisant et de qualité auprès des bénéficiaires.",
 objectifs: `
 Cette journée vise à poser un cadre professionnel clair dès l'entrée en fonction, en renforçant la compréhension du rôle d'AF, de ses limites et des règles déontologiques, tout en développant des pratiques sécurisées de manutention au domicile
@@ -710,7 +710,7 @@ date: "Dates à définir"
 id: 37,
 categorie: "Les packs professionnels",
 titre: "Pack nouvelles engagées AMS",
-image: "images/formation.jpg",
+image: "images/postit.jpg",
 presentation: " Journée conçue pour accompagner les AMS dans leur prise de fonction en leur apportant les repères essentiels liés au cadre professionnel, à la posture attendue et aux bonnes pratiques favorisant un accompagnement sécurisant et de qualité auprès des bénéficiaires.",
 objectifs: `
 Cette formation a pour objectif de clarifier le cadre et les limites du métier d'aide-ménager(e), de renforcer les principes déontologiques et de consolider les bonnes pratiques d'entretien ménager dans le respect du domicile et du bénéficiaire.
@@ -738,7 +738,7 @@ date: "Dates à définir"
 id: 38,
 categorie: "Les packs professionnels",
 titre: "Pack mise à niveau posture professionnelle AF",
-image: "images/formation.jpg",
+image: "images/mains.jpg",
 presentation: "Cette journée vise à poser un cadre professionnel clair dès l'entrée en fonction, en renforçant la compréhension du rôle d'AF, de ses limites et des règles déontologiques, tout en développant des pratiques sécurisées de manutention au domicile.",
 objectifs: `
 Cette formation a pour objectif de clarifier le cadre et les limites du métier d'aide-ménager(e), de renforcer les principes déontologiques et de consolider les bonnes pratiques d'entretien ménager dans le respect du domicile et du bénéficiaire.
@@ -766,7 +766,7 @@ date: "Dates à définir"
 id: 39,
 categorie: "Les packs professionnels",
 titre: "Pack mise à niveau des pratiques ménagères - AMS",
-image: "images/formation.jpg",
+image: "images/AMS.jpg",
 presentation: "Cette journée vise à poser un cadre professionnel clair dès l'entrée en fonction, en renforçant la compréhension du rôle d'AF, de ses limites et des règles déontologiques, tout en développant des pratiques sécurisées de manutention au domicile.",
 objectifs: `
 Cette formation a pour objectif de clarifier le cadre et les limites du métier d'aide-ménager(e), de renforcer les principes déontologiques et de consolider les bonnes pratiques d'entretien ménager dans le respect du domicile et du bénéficiaire.

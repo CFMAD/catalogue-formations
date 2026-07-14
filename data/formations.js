@@ -695,17 +695,128 @@ Cette journée vise à poser un cadre professionnel clair dès l'entrée en fonc
 •	15h45-16h00 : Evaluation et clôture
 `,
 formateur: "A définir",
-public: "Professionnels de terrain, AF, AMS, AS",
+public: "AF",
 participants: "max 18 personnes",
-tarif: `140€ /participant (une attestation de participation sera envoyée après la formation)
-Complétez ce formulaire d'inscription individuelle : XYZ
-(Attention, la formation ne sera pas maintenue si nous n'avons pas un minimum de 10 participants pour la journée)
+tarif: `
+•	140€ /participant (une attestation de participation sera envoyée après la formation)
+•	Complétez ce formulaire d'inscription individuelle : XYZ
+•	(Attention, la formation ne sera pas maintenue si nous n'avons pas un minimum de 10 participants pour la journée)
 `,
+
 date: "Dates à définir"
 },
 
+{
+id: 37,
+categorie: "Les packs professionnels",
+titre: "Pack nouvelles engagées AMS",
+image: "images/formation.jpg",
+presentation: " Journée conçue pour accompagner les AMS dans leur prise de fonction en leur apportant les repères essentiels liés au cadre professionnel, à la posture attendue et aux bonnes pratiques favorisant un accompagnement sécurisant et de qualité auprès des bénéficiaires.",
+objectifs: `
+Cette formation a pour objectif de clarifier le cadre et les limites du métier d'aide-ménager(e), de renforcer les principes déontologiques et de consolider les bonnes pratiques d'entretien ménager dans le respect du domicile et du bénéficiaire.
+•	08h15: Accueil 
+•	08h30-10h30 : Déontologie: respect du domicile, discrétion, relation bénéficiaire
+•	10h30-10h45 : Pause
+•	10h45-12h45 : Limites du métier : cadre de fonction, refus légitime
+•	12h45-13h30 : Temps de table (sandwich offert)
+•	13h30-15h45 : Entretien ménager
+•	15h45-16h00 : Evaluation et clôture
+`,
+formateur: "A définir",
+public: "AMS",
+participants: "max 18 personnes",
+tarif: `
+•	140€ /participant (une attestation de participation sera envoyée après la formation)
+•	Complétez ce formulaire d'inscription individuelle : XYZ
+•	(Attention, la formation ne sera pas maintenue si nous n'avons pas un minimum de 10 participants pour la journée)
+`,
 
+date: "Dates à définir"
+},
 
+{
+id: 38,
+categorie: "Les packs professionnels",
+titre: "Pack mise à niveau posture professionnelle AF",
+image: "images/formation.jpg",
+presentation: "Cette journée vise à poser un cadre professionnel clair dès l'entrée en fonction, en renforçant la compréhension du rôle d'AF, de ses limites et des règles déontologiques, tout en développant des pratiques sécurisées de manutention au domicile.",
+objectifs: `
+Cette formation a pour objectif de clarifier le cadre et les limites du métier d'aide-ménager(e), de renforcer les principes déontologiques et de consolider les bonnes pratiques d'entretien ménager dans le respect du domicile et du bénéficiaire.
+•	08h15 : Accueil 
+•	08h30-10h30 : Déontologie: respect du domicile, discrétion, relation bénéficiaire
+•	10h30-10h45 : Pause
+•	10h45-12h45 : Posture en équipe : cadre institutionnel, communication professionnelle, responsabilité partagée et positionnement clair
+•	12h45-13h30 : Temps de table (sandwich offert)
+•	13h30-15h45 : Posture au domicile : respect du domicile et des habitudes, distance professionnelle, limites du métier
+•	15h45-16h00 : Evaluation et clôture
+`,
+formateur: "A définir",
+public: "AF",
+participants: "max 18 personnes",
+tarif: `
+•	140€ /participant (une attestation de participation sera envoyée après la formation)
+•	Complétez ce formulaire d'inscription individuelle : XYZ
+•	(Attention, la formation ne sera pas maintenue si nous n'avons pas un minimum de 10 participants pour la journée)
+`,
+
+date: "Dates à définir"
+},
+
+{
+id: 39,
+categorie: "Les packs professionnels",
+titre: "Pack mise à niveau des pratiques ménagères - AMS",
+image: "images/formation.jpg",
+presentation: "Cette journée vise à poser un cadre professionnel clair dès l'entrée en fonction, en renforçant la compréhension du rôle d'AF, de ses limites et des règles déontologiques, tout en développant des pratiques sécurisées de manutention au domicile.",
+objectifs: `
+Cette formation a pour objectif de clarifier le cadre et les limites du métier d'aide-ménager(e), de renforcer les principes déontologiques et de consolider les bonnes pratiques d'entretien ménager dans le respect du domicile et du bénéficiaire.
+•	08h15: Accueil 
+•	08h30-10h30 : Formation ménagère - entretien ménager
+•	10h30-10h45 : Pause
+•	10h45-12h45 : Sécurité & prévention des risques
+•	12h45-13h30 : Temps de table (sandwich offert)
+•	13h30-15h45 : Manutention des charges lourdes
+•	15h45-16h00 : Evaluation et clôture
+`,
+formateur: "A définir",
+public: "AMS",
+participants: "max 18 personnes",
+tarif: `
+•	140€ /participant (une attestation de participation sera envoyée après la formation)
+•	Complétez ce formulaire d'inscription individuelle : XYZ
+•	(Attention, la formation ne sera pas maintenue si nous n'avons pas un minimum de 10 participants pour la journée)
+`,
+
+date: "Dates à définir"
+},
+
+{
+id: 40,
+categorie: "Les packs professionnels",
+titre: "Pack mise à niveau cuisine - AF",
+image: "images/formation.jpg",
+presentation: "Cette journée de mise à niveau vise à renforcer les compétences en cuisine au domicile en intégrant les principes de diététique et d'hygiène alimentaire, afin de garantir des repas sûrs et adaptés aux besoins des bénéficiaires.",
+objectifs: `
+Cette formation a pour objectif de clarifier le cadre et les limites du métier d'aide-ménager(e), de renforcer les principes déontologiques et de consolider les bonnes pratiques d'entretien ménager dans le respect du domicile et du bénéficiaire.
+•	08h15: Accueil 
+•	08h30-10h30 : Diététique de base : équilibre alimentaire, besoins des bénéficiaires, lien avec quelques pathologies
+•	10h30-10h45 : Pause
+•	10h45-12h45 : Hygiène en cuisine : principes de base, conservation, les risques
+•	12h45-13h30 : Temps de table (sandwich offert)
+•	13h30-15h45 : Cuisine pratique : techniques, organisation, menus simples et/ou cuisine des restes
+•	15h45-16h00 : Evaluation et clôture
+`,
+formateur: "A définir",
+public: "AMS",
+participants: "max 18 personnes",
+tarif: `
+•	140€ /participant (une attestation de participation sera envoyée après la formation)
+•	Complétez ce formulaire d'inscription individuelle : XYZ
+•	(Attention, la formation ne sera pas maintenue si nous n'avons pas un minimum de 10 participants pour la journée)
+`,
+
+date: "Dates à définir"
+},
 
     
 ];

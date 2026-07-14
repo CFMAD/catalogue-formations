@@ -43,7 +43,7 @@ id: 3,
 categorie: "Prévention, santé et sensibilisation ",
 titre: "Agressivité du bénéficiaire",
 image: "images/formation.jpg",
-presentation: " comprendre et anticiper les situations d’agressivité, de mieux gérer leurs émotions et d’acquérir des techniques concrètes pour prévenir et gérer efficacement les situations de crise avec les bénéficiaires
+presentation: "Comprendre et anticiper les situations d’agressivité, de mieux gérer leurs émotions et d’acquérir des techniques concrètes pour prévenir et gérer efficacement les situations de crise avec les bénéficiaires
 .",
 objectifs: `
 •	Acquérir des outils permettant de gérer ses émotions ;

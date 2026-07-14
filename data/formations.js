@@ -282,7 +282,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 16,
 categorie: "Cadre professionnel",
 titre: " Affirmation de soi : comment poser mes limites ?",
-image: "images/document.jpg",
+image: "images/affirmation.jpg",
 presentation: "Cette formation invite à développer une communication équilibrée et respectueuse de soi comme des autres, afin de renforcer sa confiance, préserver ses ressources personnelles et construire des relations professionnelles plus sereines.",
 objectifs: `
 •	Comprendre la différence entre assertivité, inhibition et agressivité

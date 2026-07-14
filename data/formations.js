@@ -4,7 +4,7 @@ const formations = [
     id: 1,
     categorie: "Prévention, santé et sensibilisation",
     titre: "Prévention des chutes",
-    image: "images/batiment.jpg",
+    image: "images/postit.jpg",
     presentation: "Identifier les facteurs de risque de chute et développer une démarche de prévention adaptée aux bénéficiaires.",
     objectifs: `
 • Identifier les facteurs de risque
@@ -24,7 +24,7 @@ const formations = [
 id: 2,
 categorie: "Prévention, santé et sensibilisation",
 titre: "Gestion du stress",
-image: "images/formation.jpg",
+image: "images/groupe.jpg",
 presentation: "identifier les facteurs de risque liés au stress, d’adapter leur accompagnement aux situations rencontrées et de mettre en œuvre des actions de prévention favorisant le bien-être et la qualité de vie au travail.",
 objectifs: `
 •	Reconnaître leurs propres signaux de stress;
@@ -42,7 +42,7 @@ participants: "max 18 personnes",
 id: 3,
 categorie: "Prévention, santé et sensibilisation",
 titre: "Agressivité du bénéficiaire",
-image: "images/formation.jpg",
+image: "images/document.jpg",
 presentation: "Comprendre et anticiper les situations d'agressivité, de mieux gérer leurs émotions et d'acquérir des techniques concrètes pour prévenir et gérer efficacement les situations de crise avec les bénéficiaires.",
 objectifs: `
 •	Acquérir des outils permettant de gérer ses émotions ;
@@ -62,7 +62,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur"
 id: 4,
 categorie: "Prévention, santé et sensibilisation",
 titre: "Sexualité des bénéficiaires",
-image: "images/formation.jpg",
+image: "images/fluo.jpg",
 presentation: "Aborder des situations sensibles dans l’accompagnement des bénéficiaires et des familles. Identifier les situations à risque et adapter les pratiques et les réponses dans le respect et l’éthique.",
 objectifs: `
 •	Famille et problèmes liés à la sexualité
@@ -80,7 +80,7 @@ date: "Modulables, en fonction de vos disponibilités et de celles du formateur"
 id: 5,
 categorie: "Prévention, santé et sensibilisation",
 titre: " La place de la spiritualité chez le bénéficiaire ",
-image: "images/formation.jpg",
+image: "images/pc.jpg",
 presentation: "Mieux repérer et comprendre les questionnements existentiels et spirituels des bénéficiaires et de leur entourage, grâce à des outils d’identification et d’exploration favorisant un accompagnement adapté et bienveillant.",
 objectifs: `
 •	Former les personnes à l'usage et à la compréhension de deux groupes d'outils; 
@@ -98,7 +98,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 id: 6,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Se régénérer par la neuroplasticité. ",
-image: "images/formation.jpg",
+image: "images/noter.jpg",
 presentation: " Stimuler la plasticité neuronale afin de favoriser le bien-être. Les bienfaits de la respiration en toute conscience. Exercices de détente et de relaxation. Mise en mouvements spécifiques. Les duos en miroir ",
 objectifs: `
 •	Mettre le corps en mouvements corporels avec des exercices qui sortent des habitudes et qui améliorent la plasticité neuronale;
@@ -116,7 +116,7 @@ date: "Lundi entre 11h et 17h / Mardi PM / Jeudi PM"
 id: 7,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Le deuil ",
-image: "images/formation.jpg",
+image: "images/ecrire.jpg",
 presentation: " Cette formation propose un espace de compréhension et de réflexion pour mieux appréhender les réalités de la perte, tant pour soi que dans l'accompagnement des autres.",
 objectifs: `
 •	Les étapes et le mécanisme du deuil. Comment gérer
@@ -134,7 +134,7 @@ date: " Modulables, en fonction de vos disponibilités et de celles du formateur
 id: 8,
 categorie: "Prévention, santé et sensibilisation",
 titre: " Premiers secours ",
-image: "images/formation.jpg",
+image: "images/ecrire2.jpg",
 presentation: " Réagir efficacement face à une situation critique et adopter les bons réflexes afin de protéger les personnes, limiter les conséquences d'un accident et favoriser une prise en charge rapide.",
 objectifs: `
 •	Identifier une situation d'urgence
@@ -794,7 +794,7 @@ date: "Dates à définir"
 id: 40,
 categorie: "Les packs professionnels",
 titre: "Pack mise à niveau cuisine - AF",
-image: "images/formation.jpg",
+image: "images/cuisine.jpg",
 presentation: "Cette journée de mise à niveau vise à renforcer les compétences en cuisine au domicile en intégrant les principes de diététique et d'hygiène alimentaire, afin de garantir des repas sûrs et adaptés aux besoins des bénéficiaires.",
 objectifs: `
 Cette formation a pour objectif de clarifier le cadre et les limites du métier d'aide-ménager(e), de renforcer les principes déontologiques et de consolider les bonnes pratiques d'entretien ménager dans le respect du domicile et du bénéficiaire.

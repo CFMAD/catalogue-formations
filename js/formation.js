@@ -37,3 +37,9 @@ document.getElementById("tarif").textContent =
     formation.tarif;
 document.getElementById("date").textContent =
     formation.date;
+
+document.getElementById("btnDemande").onclick = function () {
+
+    window.location.href = "demande.html?id=" + formation.id;
+
+};

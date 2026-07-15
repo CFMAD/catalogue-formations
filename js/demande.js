@@ -43,33 +43,50 @@ document.getElementById("demandeForm").addEventListener("submit", async function
 
     };
 
-    try{
+try {
 
-        await fetch(WEBAPP,{
+    const formData = new URLSearchParams();
 
-            method:"POST",
+    formData.append("formation", data.formation);
+    formData.append("nom", data.nom);
+    formData.append("prenom", data.prenom);
+    formData.append("organisme", data.organisme);
+    formData.append("email", data.email);
+    formData.append("telephone", data.telephone);
+    formData.append("periode", data.periode);
+    formData.append("message", data.message);
 
-            body:JSON.stringify(data)
+    const reponse = await fetch(WEBAPP, {
+        method: "POST",
+        body: formData
+    });
 
-        });
-
-        alert("✅ Votre demande a bien été envoyée.\n\nLe CFMAD prendra rapidement contact avec vous.");
-
-        this.reset();
-
-        if(formation){
-
-            document.getElementById("formation").value = formation.titre;
-
-        }
-
+    if (!reponse.ok) {
+        throw new Error("Erreur serveur");
     }
 
-    catch(error){
+    alert("✅ Votre demande a bien été enregistrée.\n\nLe CFMAD prendra rapidement contact avec vous.");
 
-        alert("Une erreur est survenue.");
+    this.reset();
 
+    if (formation) {
+        document.getElementById("formation").value = formation.titre;
     }
+
+}
+catch (erreur) {
+
+    console.error(erreur);
+
+    alert("Une erreur est survenue lors de l'envoi.");
+
+}
+finally {
+
+    bouton.disabled = false;
+    bouton.textContent = "📩 Envoyer la demande";
+
+}
 
     bouton.disabled=false;
 

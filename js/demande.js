@@ -65,7 +65,7 @@ try {
         throw new Error("Erreur serveur");
     }
 
-    alert("✅ Votre demande a bien été enregistrée.\n\nLe CFMAD prendra rapidement contact avec vous.");
+    alert("✅ Votre demande a bien été envoyée.\n\nLe CFMAD prendra rapidement contact avec vous.");
 
     this.reset();
 
@@ -84,12 +84,9 @@ catch (erreur) {
 finally {
 
     bouton.disabled = false;
+
     bouton.textContent = "📩 Envoyer la demande";
 
 }
-
-    bouton.disabled=false;
-
-    bouton.textContent="📩 Envoyer la demande";
 
 });

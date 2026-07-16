@@ -634,3 +634,114 @@ color:white;
     font-size:22px;
 
 }
+
+/* =====================================
+   PAGE DEMANDE
+===================================== */
+
+.demande-page{
+
+    max-width:850px;
+    margin:50px auto;
+    padding:20px;
+
+}
+
+.demande-card{
+
+    background:white;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 12px 35px rgba(0,0,0,.08);
+
+}
+
+.formation-rappel{
+
+    background:linear-gradient(135deg,#0A6FAE,#1283C7);
+    color:white;
+    padding:25px;
+    border-radius:14px;
+    margin-bottom:35px;
+
+}
+
+.formation-rappel span{
+
+    display:block;
+    opacity:.9;
+    font-size:14px;
+    margin-bottom:8px;
+
+}
+
+.formation-rappel h2{
+
+    color:white;
+    margin:0;
+    font-size:30px;
+
+}
+
+#demandeForm{
+
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+
+}
+
+#demandeForm label{
+
+    font-weight:600;
+    color:#1E5D74;
+
+}
+
+#demandeForm input,
+#demandeForm textarea{
+
+    padding:15px;
+    border:2px solid #DDE5EC;
+    border-radius:10px;
+    font-size:16px;
+    transition:.25s;
+
+}
+
+#demandeForm input:focus,
+#demandeForm textarea:focus{
+
+    border-color:#0A6FAE;
+    outline:none;
+
+}
+
+#demandeForm textarea{
+
+    resize:vertical;
+    min-height:140px;
+
+}
+
+#demandeForm button{
+
+    margin-top:15px;
+    padding:16px;
+    border:none;
+    border-radius:10px;
+    background:#0A6FAE;
+    color:white;
+    font-size:17px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:.25s;
+
+}
+
+#demandeForm button:hover{
+
+    background:#1E5D74;
+    transform:translateY(-2px);
+
+}

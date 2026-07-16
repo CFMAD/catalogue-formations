@@ -65,13 +65,12 @@ try {
         throw new Error("Erreur serveur");
     }
 
-    alert("✅ Votre demande a bien été envoyée.\n\nLe CFMAD prendra rapidement contact avec vous.");
+alert(
+"✅ Votre demande a bien été enregistrée.\n\n" +
+"Nous reprendrons contact avec vous dans les meilleurs délais."
+);
 
-    this.reset();
-
-    if (formation) {
-        document.getElementById("formation").value = formation.titre;
-    }
+window.location.href = "formation.html?id=" + formation.id;
 
 }
 catch (erreur) {

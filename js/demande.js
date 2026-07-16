@@ -10,7 +10,8 @@ const formation = formations.find(f => f.id === id);
 if (formation) {
 
     document.getElementById("formation").value = formation.titre;
-
+document.getElementById("titreFormation").textContent =
+formation.titre;
 }
 
 document.getElementById("demandeForm").addEventListener("submit", async function(e){

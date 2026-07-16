@@ -66,12 +66,8 @@ try {
         throw new Error("Erreur serveur");
     }
 
-alert(
-"✅ Votre demande a bien été enregistrée.\n\n" +
-"Nous reprendrons contact avec vous dans les meilleurs délais."
-);
-
-window.location.href = "formation.html?id=" + formation.id;
+window.location.href =
+"confirmation.html?id="+formation.id;
 
 }
 catch (erreur) {

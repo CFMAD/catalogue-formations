@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Demande envoyée - CFMAD</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Demande envoyée</h1>
+
+<p>Votre demande a bien été enregistrée.</p>
+
+</header>
+
+<main class="confirmation">
+
+<div class="confirmation-card">
+
+<div class="confirmation-icon">
+
+✅
+
+</div>
+
+<h2>Merci pour votre confiance !</h2>
+
+<p>
+
+Votre demande de formation a bien été enregistrée.
+
+<br><br>
+
+L'équipe du CFMAD prendra contact avec vous dans les meilleurs délais.
+
+</p>
+
+<a id="retourFormation" class="btn-retour">
+
+← Retour à la fiche de formation
+
+</a>
+
+</div>
+
+</main>
+
+<script>
+
+const params = new URLSearchParams(window.location.search);
+
+const id = params.get("id");
+
+document.getElementById("retourFormation").href =
+"formation.html?id="+id;
+
+</script>
+
+</body>
+
+</html>

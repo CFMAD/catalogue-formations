@@ -891,3 +891,61 @@ color:white;
     color:#1E5D74;
 
 }
+
+
+
+html{
+
+    scroll-behavior:smooth;
+
+}
+
+.hero-actions{
+
+    margin-top:35px;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    flex-wrap:wrap;
+
+}
+
+.btn-hero{
+
+    display:inline-block;
+
+    padding:15px 28px;
+
+    border-radius:10px;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+    background:white;
+
+    color:#0A6FAE;
+
+    transition:.25s;
+
+}
+
+.btn-hero:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 10px 20px rgba(0,0,0,.15);
+
+}
+
+.btn-secondaire{
+
+    background:#1E5D74;
+
+    color:white;
+
+}

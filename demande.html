@@ -22,94 +22,56 @@
 
 </header>
 
-<main class="fiche">
+<main class="demande-page">
 
-<section>
+<div class="demande-card">
 
-<h2>Votre demande</h2>
+    <div class="formation-rappel">
 
-<form id="demandeForm">
+        <span>📚 Formation demandée</span>
 
-<label>Formation</label>
+        <h2 id="titreFormation"></h2>
 
-<input
-type="text"
-id="formation"
-readonly>
+    </div>
 
-<br><br>
+    <form id="demandeForm">
 
-<label>Nom</label>
+        <label for="formation">Formation</label>
+        <input type="text" id="formation" readonly>
 
-<input
-type="text"
-id="nom"
-required>
+        <label for="nom">Nom *</label>
+        <input type="text" id="nom" required>
 
-<br><br>
+        <label for="prenom">Prénom *</label>
+        <input type="text" id="prenom" required>
 
-<label>Prénom</label>
+        <label for="organisme">Organisme *</label>
+        <input type="text" id="organisme" required>
 
-<input
-type="text"
-id="prenom"
-required>
+        <label for="email">Email *</label>
+        <input type="email" id="email" required>
 
-<br><br>
+        <label for="telephone">Téléphone</label>
+        <input type="tel" id="telephone">
 
-<label>Organisme</label>
+        <label for="dates">Période souhaitée</label>
+        <input type="text" id="dates">
 
-<input
-type="text"
-id="organisme"
-required>
+        <label for="message">Message</label>
+        <textarea id="message" rows="6"></textarea>
 
-<br><br>
+        <button type="submit">
 
-<label>Email</label>
+            📩 Envoyer ma demande
 
-<input
-type="email"
-id="email"
-required>
+        </button>
 
-<br><br>
+    </form>
 
-<label>Téléphone</label>
-
-<input
-type="tel"
-id="telephone">
-
-<br><br>
-
-<label>Période(s) souhaitée(s)</label>
-
-<input
-type="text"
-id="dates">
-
-<br><br>
-
-<label>Message</label>
-
-<textarea
-id="message"
-rows="6"></textarea>
-
-<br><br>
-
-<button type="submit">
-
-📩 Envoyer la demande
-
-</button>
-
-</form>
-
-</section>
+</div>
 
 </main>
+
 
 <script src="data/formations.js"></script>
 <script src="js/demande.js"></script>

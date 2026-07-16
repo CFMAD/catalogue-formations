@@ -790,3 +790,49 @@ color:white;
     line-height:1.8;
 
 }
+
+/* =====================================
+   CONTACT CFMAD
+===================================== */
+
+.contact-cfmad{
+
+    background:#EEF7FC;
+
+    border-left:6px solid #0A6FAE;
+
+    padding:30px;
+
+    border-radius:15px;
+
+    margin:40px 0;
+
+}
+
+.contact-cfmad h2{
+
+    color:#0A6FAE;
+
+    margin-bottom:15px;
+
+}
+
+.contact-cfmad p{
+
+    line-height:1.8;
+
+}
+
+.contact-infos{
+
+    margin-top:20px;
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:30px;
+
+    font-weight:600;
+
+}

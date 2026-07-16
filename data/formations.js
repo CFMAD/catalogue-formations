@@ -818,5 +818,28 @@ tarif: `
 date: "Dates à définir"
 },
 
+{
+id: 41,
+categorie: "Les packs professionnels",
+titre: "Analyse systémique - AF",
+image: "images/equipe.jpg",
+presentation: "Et si la solution ne résidait pas dans l'analyse du problème, mais dans la compréhension des interactions qui le maintiennent ? Durant 4 matinées, cette formation à l'approche systémique de Palo Alto vous permettra d'explorer des méthodes concrètes et efficaces pour accompagner les personnes et les équipes vers le changement.",
+objectifs: `
+•	Comprendre les difficultés autrement pour agir plus efficacement.
+•	Découvrez les fondamentaux de l'analyse systémique
+•	Enrichissez votre pratique professionnelle grâce à une lecture nouvelle des situations relationnelles et des problématiques de changement.
+`,
+formateur: "Monsieur Zumbo",
+public: "AF",
+participants: "max 18 personnes",
+tarif: `
+•	250€ /participant pour les 4 matinées (une attestation de participation sera envoyée après la formation)
+•	Complétez ce formulaire d'inscription individuelle : XYZ
+•	(Attention, la formation ne sera pas maintenue si nous n'avons pas un minimum de 10 participants inscrits)
+`,
+
+date: "4 matinées à définir"
+},
+    
     
 ];

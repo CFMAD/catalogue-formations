@@ -413,7 +413,7 @@ id: 23,
 categorie: "Cadre professionnel",
 titre: "Diminuer la fatigue et le stress",
 image: "images/fatigue.jpg",
-presentation: "Cette formation permet de mieux comprendre les messages véhiculés par les attitudes, les gestes et les expressions afin de favoriser une communication plus consciente, authentique et efficace.",
+presentation: "Cette formation permet d'identifier et reconnaître les différents signes de fatigue, d’épuisement et de stress du métier. Avoir des outils pratiques de bien-être au quotidien.",
 objectifs: `
 •	Observer la respiration
 •	Se détendre par la respiration 

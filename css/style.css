@@ -55,7 +55,11 @@ justify-content: center;
 gap: 25px;
 padding: 20px;
 }
- 
+ .header-container img {
+width: 80px;
+height: auto;
+}
+
 .logo {
 width: 20px;
 height: auto;
